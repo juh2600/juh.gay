@@ -56,3 +56,6 @@ now for the fun part of having one of these sites: linking to other people!
 - [drv](https://drv.nu)
 - [monochroma](javascript:alert("monochroma doesn't believe in the web"))
 - [sdomi](https://sdomi.pl)
+- [travja](https://travja.dev/)
+- [inam](https://maniks.net)
+- [jaci](https://imjac.in/ta)
