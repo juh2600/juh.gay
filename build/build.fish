@@ -4,6 +4,9 @@ set -x indir src/
 set -x outdir doc/
 set -x resources css files
 
+# make clean
+rm -rf $outdir
+
 # duplicate directory structure
 for subdir in (find src/ -type d)
 	#echo ==\> $subdir
