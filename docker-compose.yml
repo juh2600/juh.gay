@@ -1,0 +1,9 @@
+services:
+  juh_gay:
+    image: jtreed/semistatic-nginx
+    environment:
+      - REPO=https://github.com/josephreed2600/juh.gay.git
+      - FREQUENCY=* * * * *
+      - DIR=doc
+    ports:
+      - 80:80
