@@ -24,7 +24,7 @@ for infile in (find src/ -type f | grep '\.md$')
     --css="https://cdn.jtreed.org/css/core.css" --css="/css/tweaks.css" --template=build/pandoc-template.html \
     -o $outfile $infile
 	echo $cmd
-	$cmd 2>|grep -ve 'title'
+	$cmd
 end
 
 # link resources into server-accessible space

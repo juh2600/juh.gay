@@ -1,3 +1,5 @@
+% advice
+
 # o great fool, what unprompted wisdom do you have for us today?
 
 here are some things i recommend to you, stranger:

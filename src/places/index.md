@@ -1,3 +1,5 @@
+% places
+
 # where ya been?
 
 here's where i can remember being in the US:

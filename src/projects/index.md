@@ -1,3 +1,5 @@
+% projects
+
 # whatcha up to?
 
 here are some things i'm working on or learning:
