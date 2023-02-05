@@ -39,11 +39,9 @@ h6 {
 
 main > footer {
 	text-align: center;
-	margin-top: 3em;
+	margin-top: 8em;
 	font-style: italic;
 	font-size: 0.8rem;
-	position: absolute;
-	bottom: 3em;
 	display: flex;
 	width: 100%;
 }
