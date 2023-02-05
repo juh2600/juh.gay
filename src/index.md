@@ -59,3 +59,5 @@ now for the fun part of having one of these sites: linking to other people!
 - [travja](https://travja.dev/)
 - [inam](https://maniks.net)
 - [jaci](https://imjac.in/ta)
+- [isaac](https://github.com/Isaac-DV)
+- shenzao should work on a site

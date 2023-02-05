@@ -2,6 +2,8 @@
 
 Equipment check
 
+Air purifier on full
+
 PPE don
 
 Paper towels for hands
