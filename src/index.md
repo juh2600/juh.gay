@@ -60,4 +60,5 @@ now for the fun part of having one of these sites: linking to other people!
 - [inam](https://maniks.net)
 - [jaci](https://imjac.in/ta)
 - [isaac](https://github.com/Isaac-DV)
+- [toast](https://etoast.me/)
 - shenzao should work on a site
