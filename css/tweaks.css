@@ -42,4 +42,11 @@ main > footer {
 	margin-top: 3em;
 	font-style: italic;
 	font-size: 0.8rem;
+	position: absolute;
+	bottom: 3em;
+	display: flex;
+	width: 100%;
+}
+main > footer > q {
+	flex: 1;
 }
