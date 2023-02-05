@@ -31,5 +31,5 @@ end
 for resource in $resources
 	set -x cmd ln -s ../$resource $outdir
 	echo $cmd
-	$cmd 2>|grep -ve 'exists'
+	$cmd
 end
