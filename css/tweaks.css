@@ -1,5 +1,11 @@
-main {
-	padding: 3em;
+main { padding: 1em; }
+@media (min-width: 10cm) {
+	main { padding: 3em; }
+}
+
+main ~ nav {
+	overflow-x: scroll;
+	overflow-y: hidden;
 }
 
 p {
