@@ -3,7 +3,7 @@
 here's where i can remember being in the US:
 
 - WA: lived in battleground, everett, enumclaw, federal way; visited auburn, bainbridge, pasco, poulsbo; worked in seattle, tukwila, redmond, kirkland
-- CA: lived in roseville, lincoln, madera; studied in fresno; visited jamestown, san diego, playa vista, monterey; worked in los angeles, just up the street from the guy with the knife at that bus station
+- CA: lived in roseville, lincoln, madera; studied in fresno; visited jamestown, san diego, playa vista, monterey, avila, pismo; worked in los angeles, just up the street from the guy with the knife at that bus station
 - UT: lived in salt lake city, west jordan; visited midvale, ogden, orem, provo, west valley; worked in bluffdale
 - NV: visited reno, tahoe
 - MN: visited minneapolis
