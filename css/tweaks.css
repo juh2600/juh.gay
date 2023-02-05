@@ -40,4 +40,6 @@ h6 {
 main > footer {
 	text-align: center;
 	margin-top: 3em;
+	font-style: italic;
+	font-size: 0.8rem;
 }
