@@ -2,7 +2,7 @@
 
 set -x indir src/
 set -x outdir doc/
-set -x resources css files
+set -x resources js css files
 
 # make clean
 rm -rf $outdir
@@ -21,7 +21,7 @@ for infile in (find src/ -type f | grep '\.md$')
 	#echo ==\> $infile
 	set -x outfile (echo $infile | sed 's ^src/ doc/ g; s \.md$ .html g')
 	set -x cmd pandoc \
-    --css="https://cdn.jtreed.org/css/core.css" --css="css/tweaks.css" --template=build/pandoc-template.html \
+    --css="https://cdn.jtreed.org/css/core.css" --css="/css/tweaks.css" --template=build/pandoc-template.html \
     -o $outfile $infile
 	echo $cmd
 	$cmd 2>|grep -ve 'title'

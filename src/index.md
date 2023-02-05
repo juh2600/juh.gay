@@ -4,6 +4,7 @@
 # ls -l juh
 p--b-q--+   2 jtreed jtreed  24/m/seattle Oct  3  1998  juh
 ```
+
 hi
 
 it's a juh
@@ -30,52 +31,16 @@ well, ok, yeah, so...
 - used to build stuff in `dc`, all kinds of [cursed shit](https://github.com/josephreed2600/dc-lib-namespaces/blob/master/matrix.dc) the first time i was in college
 - hell, i even used to build stuff in css, like this [silly framework](https://bonkstrap.jtreed.org/styles.html) i made for an assignment
 - used to use git, and [tried to explain it](https://github.com/josephreed2600/git-cheatsheet/tree/master/reference) for one of my roommates
+- used to burn dinosaurs in my jeep
+	- oh yeah i have a jeep :) like many of my friends, it's cute but it doesn't work :(
 
 ## that's a lot of things you don't do anymore
 
-yeah. here are some things i'm working on or learning:
+yeah... sometimes i feel down about it, but i'm trying to [do more things](projects.html)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
 
-- doing more with docker, including trying to move my daily driver to [Kasm Workspaces](https://kasmweb.com/) (there's a line of yaks out the door, we'll get there). gpus are hell
-- learning basic EE things, hoping to someday do less-basic EE things
-- visiting a doctor soon!
-- setting up the garage i can't afford in the bedroom i don't use, for servers, resin printing, soldering, probing, and rebuilding my jeep
-- oh yeah i have a jeep :) like most of my friends, it's cute but it doesn't work :(
-  - need to rebuild the transfer case
-- i'd like to get into kubernetes
-- i'd also like to get into bare metal orchestration, which is obviously a horrific battlefield of incompatible technologies and partially-implemented standards and vendors being stupid and ancient open-source projects and
- 
-here are some things i recommend to you, stranger:
+## wow juh, you are so cool and i want to talk to you
 
-- working with web frontend? [grow some principles!](https://jeffhuang.com/designed_to_last/)
-- buy some [whiteboards](https://amazon.com/dp/B06VVBW9BQ) for your home. adhd lifesavers. my god they have changed everything. you'll need [markers](https://amazon.com/dp/B0006HXJFK) too
-- keep your water bottle where you can see it. if i can't see it i just forget to drink water
-- a jeep should not be your only vehicle
-- resin printing is a small but odiferous nightmare, don't get into it unless you have plenty of space to dedicate to a large grow tent or fume hood. ventilate it. give yourself extra room to work and protect your surfaces. also wear gloves and be careful
-- acetone will eat through vinyl gloves, so [choose something else](http://amo-csd.lbl.gov/downloads/Chemical%20Resistance%20of%20Gloves.pdf) (latex or butyl) if you're working with it. that's unrelated to the resin printing comments; you should be using isopropanol for resin washing
-
-here's where i can remember being in the US:
-
-- WA: lived in battleground, everett, enumclaw, federal way; visited auburn, bainbridge, pasco, poulsbo; worked in seattle, tukwila, redmond, kirkland
-- CA: lived in roseville, lincoln, madera; studied in fresno; visited jamestown, san diego, playa vista, monterey; worked in los angeles, just up the street from the guy with the knife at that bus station
-- UT: lived in salt lake city, west jordan; visited midvale, ogden, orem, provo, west valley; worked in bluffdale
-- NV: visited reno, tahoe
-- MN: visited minneapolis
-- DC: visited the smithsonians and stuff
-- TX: visited houston
-- AK: visited seward, anchorage, denali
-
-here's where i've been outside the US:
-
-- this unordered list intentionally left empty
-
-here's where i'd like to go:
-
-- japan: [pancakes](https://google.com/search?q=japanese+pancakes&tbm=isch) (not [okonomiyaki](https://google.com/search?q=okonomiyaki&tbm=isch)), rainy season, pretty trees and stuff
-- a forest, very green and lush and damp
-- back to bed
-- museums, especially the rocket ones in florida :D
-
-you're welcome to trigger anxiety by messaging me out of the blue:
+you're welcome to trigger my anxiety by messaging me out of the blue:
 
 - juh@libera, jtreed secondary
 - juh.gay+\<your handle here\>@you.jtreed.org
@@ -89,5 +54,3 @@ now for the fun part of having one of these sites: linking to other people!
 - [drv](https://drv.nu)
 - [monochroma](javascript:alert("monochroma doesn't believe in the web"))
 - [sdomi](https://sdomi.pl)
-
-if it ain't leaking, it's probably empty.

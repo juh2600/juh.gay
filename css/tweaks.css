@@ -1,4 +1,4 @@
-body {
+main {
 	padding: 3em;
 }
 
@@ -35,4 +35,9 @@ h5 {
 
 h6 {
 	font-size: 1.2rem;
+}
+
+main > footer {
+	text-align: center;
+	margin-top: 3em;
 }
