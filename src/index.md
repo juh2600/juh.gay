@@ -24,7 +24,7 @@ well, ok, yeah, so...
 - using thinkpads p1g2 for personal and x1cg7 for work, but i don't really like them all that much
 - manjaro is my daily driver (but i've been burned by arch things enough that i'm sticking to debians and containers for all new deployments)
 - i3 and kitty-term and fish and vim
-- docker, docker compose, traefik
+- docker, docker compose, traefik, nginx
 - used to do a little math, like [partially implementing](https://github.com/Team1323/2018PowerUp-VSC/tree/master/src/main/java/com/team1323/lib/math/vectors) a [guiding vector field path-following algorithm](https://arxiv.org/pdf/1610.04391.pdf) for a particular [holonomic drivetrain](files/OCILOW_Control.pdf) (i did some navigation/telemetry code too)
 - used to build stuff in PHP, basic crud applications for an FRC team back in high school
 - used to build stuff in JS, all kinds of cursed shit the second time i was in college
@@ -32,11 +32,11 @@ well, ok, yeah, so...
 - hell, i even used to build stuff in css, like this [silly framework](https://bonkstrap.jtreed.org/styles.html) i made for an assignment
 - used to use git, and [tried to explain it](https://github.com/josephreed2600/git-cheatsheet/tree/master/reference) for one of my roommates
 - used to burn dinosaurs in my jeep
-	- oh yeah i have a jeep :) like many of my friends, it's cute but it doesn't work :(
+	- oh yeah i have a jeep :) like many of my friends, it's very cute but also broken :(
 
 ## that's a lot of things you don't do anymore
 
-yeah... sometimes i feel down about it, but i'm trying to [do more things](projects.html)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
+yeah... sometimes i feel down about it, but i'm trying to [do more things](/projects)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
 
 ## wow juh, you are so cool and i want to talk to you
 
