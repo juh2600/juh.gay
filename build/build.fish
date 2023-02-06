@@ -22,9 +22,10 @@ for infile in (find src/ -type f | grep '\.md$')
 	set -x outfile (echo $infile | sed 's ^src/ doc/ g; s \.md$ .html g')
 	set -x cmd pandoc \
     --css="https://cdn.jtreed.org/css/core.css" --css="/css/tweaks.css" --template=build/pandoc-template.html \
-    -o $outfile $infile
+    --wrap=none -t html -o /dev/stdout $infile
+    #-o $outfile $infile
 	echo $cmd
-	$cmd
+	$cmd | sed -Ee 's@<a (href=[^>]+://[^>]+>)@<a target=_blank \1@g' > $outfile # sed compels external links to open in new tabs
 end
 
 # link resources into server-accessible space
