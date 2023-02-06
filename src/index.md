@@ -44,12 +44,19 @@ yeah... sometimes i feel down about it, but i'm trying to [do more things](/proj
 
 you're welcome to trigger my anxiety by messaging me out of the blue:
 
-- juh@libera, jtreed secondary
-- juh.gay+\<your handle here\>@you.jtreed.org
+- juh@[libera](https://web.libera.chat), jtreed secondary
+- [juh.gay+\<your handle here\>@you.jtreed.org](mailto:juh.gay+FIXME_your_handle_here@you.jtreed.org)
 - discord available upon request, i use it but it's an easy target for spam so i don't think i'll publish it on the web
 - if you call me i will not answer :)
 
-now for the fun part of having one of these sites: linking to other people!
+i also exist in a couple of other places:
+
+- [github.com/josephreed2600](https://github.com/josephreed2600)
+- [throne.me/juh](https://throne.me/juh)
+
+## don't these sites usually have links to your friends?
+
+yes!! the fun part!
 
 - [lain](https://hacktheinter.net)
 - [jes](https://femtobit.org)
