@@ -5,5 +5,7 @@ services:
       - REPO=https://github.com/josephreed2600/juh.gay.git
       - FREQUENCY=* * * * *
       - DIR=doc
+      - BRANCH=dev
+      - NGINX_CONF=nginx-server.conf
     ports:
       - 80:80
