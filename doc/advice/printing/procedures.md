@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 		<meta name="generator" content="pandoc" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-										<title>projects | juh</title>
+										<title>Methods of Procedure: Resin Printing Operations | juh</title>
 		<style>
 			code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,22 +26,38 @@ ul.task-list li input[type="checkbox"] {
 		<![endif]-->
 		<script src=/js/motd-data.js></script>
 <script src=https://cdn.jtreed.org/js/motd.js></script>
-<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />	</head>
+<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />
+<base href=/ />	</head>
 	<body>
 		<main>
 									<!--header id="title-block-header">
-				<h1 class="title">projects</h1>
+				<h1 class="title">Methods of Procedure: Resin Printing Operations</h1>
 																			</header-->
-									<h1 id="whatcha-up-to">whatcha up to?</h1>
-<p>here are some things i’m working on or learning:</p>
-<ul>
-<li>doing more with docker, including trying to move my daily driver to <a target=_blank href="https://kasmweb.com/">Kasm Workspaces</a> (there’s a line of yaks out the door, we’ll get there). gpus are hell</li>
-<li>learning basic EE things, hoping to someday do less-basic EE things</li>
-<li>visiting a doctor soon!</li>
-<li>setting up the garage i can’t afford in the bedroom i don’t use, for servers, resin printing, soldering, probing, and rebuilding my jeep</li>
-<li>i’d like to get into kubernetes</li>
-<li>i’d also like to get into bare metal orchestration, which is obviously a horrific battlefield of incompatible technologies and partially-implemented standards and vendors being stupid and ancient open-source projects and</li>
-</ul>
+									<h1 id="vat-cleaning">Vat cleaning</h1>
+<ol type="1">
+<li>Equipment check and workspace prep
+<ol type="1">
+<li>Inspect PPE for wear</li>
+<li>Air purifier on full</li>
+<li>Don PPE
+<ol type="1">
+<li>Vinyl disposable gloves</li>
+<li>Respirator</li>
+<li>Coveralls</li>
+<li>Booties</li>
+<li>Apron</li>
+<li>Open door</li>
+<li>Gauntlets</li>
+<li>TODO consider another layer of disposable gloves outside, so they can cure</li>
+</ol></li>
+<li>Paper towels for hands</li>
+<li>Paper towels for tools</li>
+</ol></li>
+<li>PPE don</li>
+<li>Curing waste</li>
+<li>Curing PPE?</li>
+<li>PPE doff</li>
+</ol>
 					<footer data-bonk-motd="getMotd()"></footer>
 		</main>
 		<nav>

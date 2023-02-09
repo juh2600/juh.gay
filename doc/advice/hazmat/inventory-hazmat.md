@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 		<meta name="generator" content="pandoc" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-										<title>Methods of Procedure: Resin Printing Operations | juh</title>
+										<title>Hazmat inventory | juh</title>
 		<style>
 			code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,37 +26,19 @@ ul.task-list li input[type="checkbox"] {
 		<![endif]-->
 		<script src=/js/motd-data.js></script>
 <script src=https://cdn.jtreed.org/js/motd.js></script>
-<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />	</head>
+<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />
+<base href=/ />	</head>
 	<body>
 		<main>
 									<!--header id="title-block-header">
-				<h1 class="title">Methods of Procedure: Resin Printing Operations</h1>
+				<h1 class="title">Hazmat inventory</h1>
 																			</header-->
-									<h1 id="vat-cleaning">Vat cleaning</h1>
-<ol type="1">
-<li>Equipment check and workspace prep
-<ol type="1">
-<li>Inspect PPE for wear</li>
-<li>Air purifier on full</li>
-<li>Don PPE
-<ol type="1">
-<li>Vinyl disposable gloves</li>
-<li>Respirator</li>
-<li>Coveralls</li>
-<li>Booties</li>
-<li>Apron</li>
-<li>Open door</li>
-<li>Gauntlets</li>
-<li>TODO consider another layer of disposable gloves outside, so they can cure</li>
-</ol></li>
-<li>Paper towels for hands</li>
-<li>Paper towels for tools</li>
-</ol></li>
-<li>PPE don</li>
-<li>Curing waste</li>
-<li>Curing PPE?</li>
-<li>PPE doff</li>
-</ol>
+									<p>FIXME: consider one of those little readme badges that links to a [disclaimer | hazmat] page or something. maybe even just have a page full of disclaimers and #hazmat can be an anchor there</p>
+<p><a href="/advice/disclaimers#general"><img src="https://img.shields.io/badge/disclaimer-general-red.svg" alt="General disclaimer" /></a></p>
+<h1 id="hazardous-materials-in-stock">Hazardous materials in stock</h1>
+<h1 id="notes">Notes</h1>
+<p><a href="advice/disclaimers#contact">disclaimers#contact</a></p>
+<p>[[inventory-ppe|foo]]</p>
 					<footer data-bonk-motd="getMotd()"></footer>
 		</main>
 		<nav>

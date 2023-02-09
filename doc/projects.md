@@ -4,7 +4,7 @@
 		<meta charset="utf-8" />
 		<meta name="generator" content="pandoc" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-										<title>places | juh</title>
+										<title>projects | juh</title>
 		<style>
 			code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,34 +26,22 @@ ul.task-list li input[type="checkbox"] {
 		<![endif]-->
 		<script src=/js/motd-data.js></script>
 <script src=https://cdn.jtreed.org/js/motd.js></script>
-<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />	</head>
+<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />
+<base href=/ />	</head>
 	<body>
 		<main>
 									<!--header id="title-block-header">
-				<h1 class="title">places</h1>
+				<h1 class="title">projects</h1>
 																			</header-->
-									<h1 id="where-ya-been">where ya been?</h1>
-<p>here’s where i can remember being in the US:</p>
+									<h1 id="whatcha-up-to">whatcha up to?</h1>
+<p>here are some things i’m working on or learning:</p>
 <ul>
-<li>WA: lived in battleground, everett, enumclaw, federal way; visited auburn, bainbridge, pasco, poulsbo; worked in seattle, tukwila, redmond, kirkland</li>
-<li>CA: lived in roseville, lincoln, madera; studied in fresno; visited jamestown, san diego, playa vista, monterey, avila, pismo; worked in los angeles, just up the street from the guy with the knife at that bus station</li>
-<li>UT: lived in salt lake city, west jordan; visited midvale, ogden, orem, provo, west valley; worked in bluffdale</li>
-<li>NV: visited reno, tahoe</li>
-<li>MN: visited minneapolis</li>
-<li>DC: visited the smithsonians and stuff</li>
-<li>TX: visited houston</li>
-<li>AK: visited seward, anchorage, denali</li>
-</ul>
-<p>here’s where i’ve been outside the US:</p>
-<ul>
-<li>this unordered list intentionally left empty</li>
-</ul>
-<p>here’s where i’d like to go:</p>
-<ul>
-<li>japan: <a target=_blank href="https://google.com/search?q=japanese+pancakes&amp;tbm=isch">pancakes</a> (not <a target=_blank href="https://google.com/search?q=okonomiyaki&amp;tbm=isch">okonomiyaki</a>), rainy season, pretty trees and stuff</li>
-<li>a forest, very green and lush and damp</li>
-<li>back to bed</li>
-<li>museums, especially the rocket ones in florida :D</li>
+<li>doing more with docker, including trying to move my daily driver to <a target=_blank href="https://kasmweb.com/">Kasm Workspaces</a> (there’s a line of yaks out the door, we’ll get there). gpus are hell</li>
+<li>learning basic EE things, hoping to someday do less-basic EE things</li>
+<li>visiting a doctor soon!</li>
+<li>setting up the garage i can’t afford in the bedroom i don’t use, for servers, resin printing, soldering, probing, and rebuilding my jeep</li>
+<li>i’d like to get into kubernetes</li>
+<li>i’d also like to get into bare metal orchestration, which is obviously a horrific battlefield of incompatible technologies and partially-implemented standards and vendors being stupid and ancient open-source projects and</li>
 </ul>
 					<footer data-bonk-motd="getMotd()"></footer>
 		</main>

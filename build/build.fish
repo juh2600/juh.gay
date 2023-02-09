@@ -19,7 +19,8 @@ end
 # process all markdown files
 for infile in (find src/ -type f | grep '\.md$')
 	#echo ==\> $infile
-	set -x outfile (echo $infile | sed 's ^src/ doc/ g; s \.md$ .html g')
+	#set -x outfile (echo $infile | sed 's ^src/ doc/ g; s \.md$ .html g')
+	set -x outfile (echo $infile | sed 's ^src/ doc/ g')
 	set -x cmd pandoc \
     --css="https://cdn.jtreed.org/css/core.css" --css="/css/tweaks.css" --template=build/pandoc-template.html \
     --wrap=none -t html -o /dev/stdout $infile
