@@ -6,7 +6,7 @@
 
 Generally speaking, these disclaimers apply:
 
-Opinions expressed are my own. They may not reflect the positions of my employer(s), family, friends (although they often inform my opinions), your neighbors, white men, Americans... My opinions are my opinions, regardless of anyone else's opinions. My opinions are also subject to change, as I learn new things and grow as a person. If you think there's something especially problematic here, you're welcome to try to [change my mind](index#contact). I try to be teachable, but sometimes I'm stubborn or just not ready for a new idea. I'll appreciate your patience if you'll appreciate my effort. :)
+Opinions expressed are my own. They may not reflect the positions of my employer(s), family, friends (although they often inform my opinions), your neighbors, white men, Americans... My opinions are my opinions, regardless of anyone else's opinions. My opinions are also subject to change, as I learn new things and grow as a person. If you think there's something especially problematic here, you're welcome to try to [change my mind](/index#contact). I try to be teachable, but sometimes I'm stubborn or just not ready for a new idea. I'll appreciate your patience if you'll appreciate my effort. :)
 
 I lack formal training in most of the areas I (want to) write about. I am not an expert, and my advice, opinions, memories, hypotheses, experiences, checklists, procedures, risk analyses, interpretations, and everything else MUST NOT be taken as the Word of God; rather, you should treat them as solid guesses. I am not a doctor, a lawyer, a certified teacher, an accountant, or a chemist. I'm just this guy, you know?
 

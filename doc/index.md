@@ -111,7 +111,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li>manjaro is my daily driver (but i’ve been burned by arch things enough that i’m sticking to debians and containers for all new deployments)</li>
 <li>i3 and kitty-term and fish and vim</li>
 <li>docker, docker compose, traefik, nginx</li>
-<li>used to do a little math, like <a target=_blank href="https://github.com/Team1323/2018PowerUp-VSC/tree/master/src/main/java/com/team1323/lib/math/vectors">partially implementing</a> a <a target=_blank href="https://arxiv.org/pdf/1610.04391.pdf">guiding vector field path-following algorithm</a> for a particular <a href="files/OCILOW_Control.pdf">holonomic drivetrain</a> (i did some navigation/telemetry code too)</li>
+<li>used to do a little math, like <a target=_blank href="https://github.com/Team1323/2018PowerUp-VSC/tree/master/src/main/java/com/team1323/lib/math/vectors">partially implementing</a> a <a target=_blank href="https://arxiv.org/pdf/1610.04391.pdf">guiding vector field path-following algorithm</a> for a particular <a href="/files/OCILOW_Control.pdf">holonomic drivetrain</a> (i did some navigation/telemetry code too)</li>
 <li>used to build stuff in PHP, basic crud applications for an FRC team back in high school</li>
 <li>used to build stuff in JS, all kinds of cursed shit the second time i was in college</li>
 <li>used to build stuff in <code>dc</code>, all kinds of <a target=_blank href="https://github.com/josephreed2600/dc-lib-namespaces/blob/master/matrix.dc">cursed shit</a> the first time i was in college</li>
@@ -123,7 +123,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 </ul>
 <h2 id="projects">that’s a lot of things you don’t do anymore</h2>
-<p>yeah… sometimes i feel down about it, but i’m trying to <a href="projects.md">do more things</a>! and in the process of building this site, I have learned many things, and I have built a nice little <a target=_blank href="https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/">docker image</a> for auto-pulling your git repos and dumping them into nginx tidily :)</p>
+<p>yeah… sometimes i feel down about it, but i’m trying to <a href="/projects.md">do more things</a>! and in the process of building this site, I have learned many things, and I have built a nice little <a target=_blank href="https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/">docker image</a> for auto-pulling your git repos and dumping them into nginx tidily :)</p>
 <h2 id="contact">wow juh, you are so cool and i want to talk to you</h2>
 <p>you’re welcome to trigger my anxiety by messaging me out of the blue:</p>
 <ul>

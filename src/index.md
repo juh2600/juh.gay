@@ -27,7 +27,7 @@ well, ok, yeah, so...
 - manjaro is my daily driver (but i've been burned by arch things enough that i'm sticking to debians and containers for all new deployments)
 - i3 and kitty-term and fish and vim
 - docker, docker compose, traefik, nginx
-- used to do a little math, like [partially implementing](https://github.com/Team1323/2018PowerUp-VSC/tree/master/src/main/java/com/team1323/lib/math/vectors) a [guiding vector field path-following algorithm](https://arxiv.org/pdf/1610.04391.pdf) for a particular [holonomic drivetrain](files/OCILOW_Control.pdf) (i did some navigation/telemetry code too)
+- used to do a little math, like [partially implementing](https://github.com/Team1323/2018PowerUp-VSC/tree/master/src/main/java/com/team1323/lib/math/vectors) a [guiding vector field path-following algorithm](https://arxiv.org/pdf/1610.04391.pdf) for a particular [holonomic drivetrain](/files/OCILOW_Control.pdf) (i did some navigation/telemetry code too)
 - used to build stuff in PHP, basic crud applications for an FRC team back in high school
 - used to build stuff in JS, all kinds of cursed shit the second time i was in college
 - used to build stuff in `dc`, all kinds of [cursed shit](https://github.com/josephreed2600/dc-lib-namespaces/blob/master/matrix.dc) the first time i was in college
@@ -38,7 +38,7 @@ well, ok, yeah, so...
 
 ## that's a lot of things you don't do anymore {#projects}
 
-yeah... sometimes i feel down about it, but i'm trying to [do more things](projects.md)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
+yeah... sometimes i feel down about it, but i'm trying to [do more things](/projects.md)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
 
 ## wow juh, you are so cool and i want to talk to you {#contact}
 
