@@ -53,6 +53,7 @@ i also exist in a couple of other places:
 
 - [github.com/josephreed2600](https://github.com/josephreed2600)
 - [throne.me/juh](https://throne.me/juh)
+- [linkedin.com/in/josephreed2600](https://www.linkedin.com/in/josephreed2600/)
 
 ## don't these sites usually have links to your friends? {#friends}
 

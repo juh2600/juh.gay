@@ -137,6 +137,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <ul>
 <li><a target=_blank href="https://github.com/josephreed2600">github.com/josephreed2600</a></li>
 <li><a target=_blank href="https://throne.me/juh">throne.me/juh</a></li>
+<li><a target=_blank href="https://www.linkedin.com/in/josephreed2600/">linkedin.com/in/josephreed2600</a></li>
 </ul>
 <h2 id="friends">don’t these sites usually have links to your friends?</h2>
 <p>yes!! the fun part!</p>
