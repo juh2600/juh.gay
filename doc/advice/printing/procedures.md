@@ -26,8 +26,7 @@ ul.task-list li input[type="checkbox"] {
 		<![endif]-->
 		<script src=/js/motd-data.js></script>
 <script src=https://cdn.jtreed.org/js/motd.js></script>
-<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />
-<base href=/ />	</head>
+<link rel=icon href=https://cdn.jtreed.org/img/logo.svg />	</head>
 	<body>
 		<main>
 									<!--header id="title-block-header">
