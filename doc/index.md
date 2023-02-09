@@ -160,11 +160,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 	<ul>
 		<li><img src="https://cdn.jtreed.org/img/logo.svg" alt="juh's logo" /></li>
 		<li><a href="/">who</a></li>
-		<li><a href="/projects">what</a></li>
+		<li><a href="/projects.md">what</a></li>
 		<li><a href="javascript:alert('the internet is a timeless place, and i move very slowly')">when</a></li>
-		<li><a href="/places">where</a></li>
-		<li><a href="/essays">why</a></li>
-		<li><a href="/advice">how</a></li>
+		<li><a href="/places.md">where</a></li>
+		<li><a href="/essays.md">why</a></li>
+		<li><a href="/advice.md">how</a></li>
 	</ul>
 </nav>	</body>
 </html>
