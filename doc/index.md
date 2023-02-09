@@ -124,7 +124,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 </ul>
 <h2 id="projects">that’s a lot of things you don’t do anymore</h2>
-<p>yeah… sometimes i feel down about it, but i’m trying to <a href="projects">do more things</a>! and in the process of building this site, I have learned many things, and I have built a nice little <a target=_blank href="https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/">docker image</a> for auto-pulling your git repos and dumping them into nginx tidily :)</p>
+<p>yeah… sometimes i feel down about it, but i’m trying to <a href="projects.md">do more things</a>! and in the process of building this site, I have learned many things, and I have built a nice little <a target=_blank href="https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/">docker image</a> for auto-pulling your git repos and dumping them into nginx tidily :)</p>
 <h2 id="contact">wow juh, you are so cool and i want to talk to you</h2>
 <p>you’re welcome to trigger my anxiety by messaging me out of the blue:</p>
 <ul>

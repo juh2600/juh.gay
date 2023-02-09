@@ -38,7 +38,7 @@ well, ok, yeah, so...
 
 ## that's a lot of things you don't do anymore {#projects}
 
-yeah... sometimes i feel down about it, but i'm trying to [do more things](projects)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
+yeah... sometimes i feel down about it, but i'm trying to [do more things](projects.md)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
 
 ## wow juh, you are so cool and i want to talk to you {#contact}
 
