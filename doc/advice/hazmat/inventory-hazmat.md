@@ -34,12 +34,9 @@ ul.task-list li input[type="checkbox"] {
 				<h1 class="title">Hazmat inventory</h1>
 																			</header-->
 									<p>FIXME: consider one of those little readme badges that links to a [disclaimer | hazmat] page or something. maybe even just have a page full of disclaimers and #hazmat can be an anchor there</p>
-<p><a href="/advice/disclaimers#general"><img src="https://img.shields.io/badge/disclaimer-general-red.svg" alt="General disclaimer" /></a></p>
+<p><a href="/advice/disclaimers#general"><img src="https://img.shields.io/badge/disclaimer-general-red.svg" alt="General disclaimer" /></a> <a href="/advice/disclaimers#hazmat"><img src="https://img.shields.io/badge/disclaimer-hazmat-orange.svg" alt="General disclaimer" /></a></p>
 <h1 id="hazardous-materials-in-stock">Hazardous materials in stock</h1>
 <h1 id="notes">Notes</h1>
-<p><a href="advice/disclaimers#contact">disclaimers#contact</a></p>
-<p>[[inventory-ppe|foo]]</p>
-<p><a href="/index.md">link to /</a> works in obs <a href="/index.md#contact">link to /#contact</a> close enough <a href="/advice/disclaimers.md#contact">link to /advice/disclaimers.md#contact</a> works in obs <a href="/advice/disclaimers#contact">link to /advice/disclaimers#contact</a> works in obs</p>
 					<footer data-bonk-motd="getMotd()"></footer>
 		</main>
 		<nav>
