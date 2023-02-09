@@ -33,6 +33,9 @@ ul.task-list li input[type="checkbox"] {
 				<h1 class="title">Disclaimers</h1>
 																			</header-->
 									<h1 id="bcp14">RFC 2119/BCP 14 notice</h1>
+<blockquote>
+<p>The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “NOT RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all capitals, as shown here.</p>
+</blockquote>
 <h1 id="general">General</h1>
 <p>Generally speaking, these disclaimers apply:</p>
 <p>Opinions expressed are my own. They may not reflect the positions of my employer(s), family, friends (although they often inform my opinions), your neighbors, white men, Americans… My opinions are my opinions, regardless of anyone else’s opinions. My opinions are also subject to change, as I learn new things and grow as a person. If you think there’s something especially problematic here, you’re welcome to try to <a href="/index#contact">change my mind</a>. I try to be teachable, but sometimes I’m stubborn or just not ready for a new idea. I’ll appreciate your patience if you’ll appreciate my effort. :)</p>
