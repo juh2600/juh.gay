@@ -39,6 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <h1 id="notes">Notes</h1>
 <p><a href="advice/disclaimers#contact">disclaimers#contact</a></p>
 <p>[[inventory-ppe|foo]]</p>
+<p><a href="/index.md">link to /</a> works in obs <a href="/index.md#contact">link to /#contact</a> close enough <a href="/advice/disclaimers.md#contact">link to /advice/disclaimers.md#contact</a> works in obs <a href="/advice/disclaimers#contact">link to /advice/disclaimers#contact</a> works in obs</p>
 					<footer data-bonk-motd="getMotd()"></footer>
 		</main>
 		<nav>

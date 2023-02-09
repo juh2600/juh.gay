@@ -11,3 +11,8 @@ FIXME: consider one of those little readme badges that links to a [disclaimer | 
 [disclaimers#contact](advice/disclaimers#contact)
 
 [[inventory-ppe|foo]]
+
+[link to /](/index.md) works in obs
+[link to /#contact](/index.md#contact) close enough
+[link to /advice/disclaimers.md#contact](/advice/disclaimers.md#contact) works in obs
+[link to /advice/disclaimers#contact](/advice/disclaimers#contact) works in obs
