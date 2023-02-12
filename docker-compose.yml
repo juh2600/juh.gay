@@ -3,9 +3,10 @@ services:
     image: jtreed/semistatic-nginx
     environment:
       - REPO=https://github.com/josephreed2600/juh.gay.git
+      - BRANCH=dev
       - FREQUENCY=* * * * *
       - DIR=doc
-      - BRANCH=dev
       - NGINX_CONF=nginx-server.conf
+      - BUILD=build/build.fish
     ports:
       - 80:80
