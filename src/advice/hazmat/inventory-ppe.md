@@ -1,5 +1,8 @@
 % PPE inventory
 
+[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers#general)
+[![General disclaimer](https://img.shields.io/badge/disclaimer-hazmat-red.svg)](/advice/disclaimers#hazmat)
+
 # Personal protective equipment in stock
 
 Equipment marked "disposable" SHOULD be disposed after a single use. The notable exception I have made is Tychem coveralls, which I plan to reuse until they tear, receive a spill, or otherwise seem unfit for duty.

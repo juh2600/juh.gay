@@ -1,5 +1,8 @@
 % advice
 
+[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers#general)
+[![General disclaimer](https://img.shields.io/badge/disclaimer-hazmat-red.svg)](/advice/disclaimers#hazmat)
+
 # o great fool, what unprompted wisdom do you have for us today?
 
 here are some things i recommend to you, stranger:

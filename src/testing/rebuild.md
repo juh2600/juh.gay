@@ -1,3 +1,3 @@
-% I’m a title!
+% I'm a title!
 
 If you can read this, the page rebuilt :D
