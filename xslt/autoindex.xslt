@@ -4,7 +4,7 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link href=https://cdn.jtreed.org/css/core.css rel=stylesheet />
+				<link href="https://cdn.jtreed.org/css/core.css" rel="stylesheet" />
 			</head>
 			<body>
 				<h3>Dafshabbat</h3>
