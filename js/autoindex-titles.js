@@ -9,3 +9,12 @@ addEventListener('DOMContentLoaded', () => {
 		;
 	});
 });
+
+addEventListener('DOMContentLoaded', () => {
+	path = location.pathname;
+	dir = path.split('/').slice(-2,-1);
+	document.title = `Index of ${dir}`;
+	document.querySelectorAll('[data-autoindex-title-dirname]').forEach(node => {
+		node.innerHTML = path;
+	});
+});

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- https://serverfault.com/a/890856/521894 -->
-<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="/">
 		<html>
 			<head>
@@ -14,7 +14,7 @@
 			</head>
 			<body>
 				<main>
-					<h1><xsl:value-of select="base-uri()" /></h1>
+					<h1>Index of <span data-autoindex-title-dirname>$here</span></h1>
 					<table>
 						<thead>
 							<tr>
