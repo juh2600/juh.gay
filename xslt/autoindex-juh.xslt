@@ -34,7 +34,7 @@
 									<xsl:when test="$type='file'">
 										<tr>
 											<td><a href="{$filename}"><xsl:value-of select="$filename" /></a></td>
-											<td>FIXME $title</td>
+											<td data-autoindex-title-filename="{$filename}"></td>
 										</tr>
 									</xsl:when>
 									<xsl:when test="$type='directory'">
