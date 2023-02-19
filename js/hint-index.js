@@ -1,5 +1,6 @@
 addEventListener('DOMContentLoaded', () => {
 	let subdir = location.pathname.replace(/\.md$/, '/');
+	if (subdir == '/') return;
 	fetch(subdir)
 		.then(res => {
 			if (res.ok) {
