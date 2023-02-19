@@ -10,7 +10,7 @@
 				<link rel="stylesheet" href="/css/tweaks.css" />
 				<link rel="stylesheet" href="https://cdn.jtreed.org/css/core.css" />
 				<link rel="icon" href="https://cdn.jtreed.org/img/logo.svg" />
-				<script src="/js/autoindex-titles.js"></script>
+				<script src="/js/autoindex.js"></script>
 			</head>
 			<body>
 				<main>
