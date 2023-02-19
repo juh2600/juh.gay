@@ -19,7 +19,6 @@
 							<tr>
 								<th>filename</th>
 								<th>title</th>
-								<th>mtime</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -35,14 +34,18 @@
 										<tr>
 											<td><a href="{$filename}"><xsl:value-of select="$filename" /></a></td>
 											<td>FIXME $title</td>
-											<td><xsl:value-of select="@mtime" /></td>
+										</tr>
+									</xsl:when>
+									<xsl:when test="$type='directory'">
+										<tr>
+											<td><a href="{$filename}"><xsl:value-of select="$filename" />/</a></td>
+											<td>--</td>
 										</tr>
 									</xsl:when>
 									<xsl:otherwise>
 										<tr>
 											<td><a href="{$filename}"><xsl:value-of select="$filename" /></a></td>
-											<td><!-- dir has no title --></td>
-											<td><xsl:value-of select="@mtime" /></td>
+											<td><!-- unknown inode type has no title --></td>
 										</tr>
 									</xsl:otherwise>
 								</xsl:choose>
