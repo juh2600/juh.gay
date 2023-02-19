@@ -6,7 +6,7 @@
 			<head>
 				<meta charset="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-				<title>Index of $here</title>
+				<title>Index of here</title>
 				<link rel="stylesheet" href="/css/tweaks.css" />
 				<link rel="stylesheet" href="https://cdn.jtreed.org/css/core.css" />
 				<link rel="icon" href="https://cdn.jtreed.org/img/logo.svg" />
@@ -14,7 +14,7 @@
 			</head>
 			<body>
 				<main>
-					<h1>Index of <span data-autoindex-title-dirname>$here</span></h1>
+					<h1>Index of <span data-autoindex-title-dirname>here</span></h1>
 					<table>
 						<thead>
 							<tr>
