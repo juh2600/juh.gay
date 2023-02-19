@@ -15,11 +15,14 @@
 				<main>
 					<h1>FIXME $dirname</h1>
 					<table>
+						<thead>
 						<tr>
 							<th>filename</th>
 							<th>title</th>
 							<th>mtime</th>
 						</tr>
+					</thead>
+					<tbody>
 						<xsl:for-each select="list/*">
 							<xsl:choose>
 								<xsl:when test="false()">
@@ -38,6 +41,7 @@
 								</xsl:otherwise>
 							</xsl:choose>
 						</xsl:for-each>
+					<tbody>
 					</table>
 				</main>
 				<nav>
