@@ -36,11 +36,11 @@ const addTableEntry = (path, title) => {
 };
 
 addEventListener('DOMContentLoaded', () => {
-	addTableEntry('../', '(up one level)');
 	fetch(`../${dir}.md`).then(res => {
 		if (res.ok) {
 			addTableEntry(`../${dir}.md`, '');
 			updateFileTitles();
 		}
 	});
+	addTableEntry('../', '(up one level)');
 });
