@@ -33,14 +33,14 @@
 							<xsl:choose>
 								<xsl:when test="$type='file'">
 									<tr>
-										<td><a href="{$filename}"><xsl:value-of select="." /></a></td>
+										<td><a href="{$filename}"><xsl:value-of select="$filename" /></a></td>
 										<td>FIXME $title</td>
 										<td><xsl:value-of select="@mtime" /></td>
 									</tr>
 								</xsl:when>
 								<xsl:otherwise>
 									<tr>
-										<td><a href="{$filename}"><xsl:value-of select="." /></a></td>
+										<td><a href="{$filename}"><xsl:value-of select="$filename" /></a></td>
 										<td><!-- dir has no title --></td>
 										<td><xsl:value-of select="@mtime" /></td>
 									</tr>
