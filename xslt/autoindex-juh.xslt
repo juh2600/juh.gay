@@ -13,8 +13,12 @@
 						<tr>
 							<th>filename</th>
 							<th>title</th>
-							<th>mtime></th>
+							<th>mtime</th>
 						</tr>
+						<xsl:for-each select="list/*">
+							<tr>
+							</tr>
+						</xsl:for-each>
 					</table>
 				</main>
 				<nav>
