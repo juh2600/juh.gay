@@ -57,5 +57,7 @@ main > footer > q {
 
 nav.subdir-nav {
 	line-height: 1.25em;
-	padding-bottom: 1em;
+	padding-bottom: 0.25em;
+	border-bottom: 1px;
+	margin-bottom: 0.75em;
 }
