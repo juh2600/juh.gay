@@ -54,3 +54,8 @@ main > footer {
 main > footer > q {
 	flex: 1;
 }
+
+nav.subdir-nav {
+	line-height: 1.25em;
+	padding-bottom: 1em;
+}
