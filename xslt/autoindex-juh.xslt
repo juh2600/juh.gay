@@ -10,6 +10,7 @@
 				<link rel="stylesheet" href="/css/tweaks.css" />
 				<link rel="stylesheet" href="https://cdn.jtreed.org/css/core.css" />
 				<link rel="icon" href="https://cdn.jtreed.org/img/logo.svg" />
+				<script src="js/autoindex-titles.js"></script>
 			</head>
 			<body>
 				<main>
@@ -38,8 +39,8 @@
 									</xsl:when>
 									<xsl:when test="$type='directory'">
 										<tr>
-											<td><a href="{$filename}"><xsl:value-of select="$filename" />/</a></td>
-											<td>--</td>
+											<td><a href="{$filename}/"><xsl:value-of select="$filename" />/</a></td>
+											<td>(directory)</td>
 										</tr>
 									</xsl:when>
 									<xsl:otherwise>
