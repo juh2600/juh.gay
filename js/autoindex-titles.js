@@ -1,6 +1,6 @@
 addEventListener('DOMContentLoaded', () => {
 	document.querySelectorAll('[data-autoindex-title-filename]').forEach(node => {
-		let filename = node.dataset.autoIndexTitleFilename;
+		let filename = node.dataset.autoindexTitleFilename;
 		console.log(filename, node);
 		fetch(filename, {headers: {range: 'bytes=0-4095'}})
 			.then(res => res.text())
