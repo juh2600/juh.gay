@@ -6,7 +6,7 @@
 			<head>
 				<meta charset="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-				<title><xsl:value-of select="base-uri()" /></title>
+				<title>Index of $here</title>
 				<link rel="stylesheet" href="/css/tweaks.css" />
 				<link rel="stylesheet" href="https://cdn.jtreed.org/css/core.css" />
 				<link rel="icon" href="https://cdn.jtreed.org/img/logo.svg" />
