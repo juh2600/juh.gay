@@ -4,7 +4,12 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link href="https://cdn.jtreed.org/css/core.css" rel="stylesheet" />
+				<meta charset="utf-8" />
+				<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+				<title>FIXME $dirname</title>
+				<link rel="stylesheet" href="/css/tweaks.css" />
+				<link rel="stylesheet" href="https://cdn.jtreed.org/css/core.css" />
+				<link rel="icon" href="https://cdn.jtreed.org/img/logo.svg" />
 			</head>
 			<body>
 				<main>
@@ -16,8 +21,22 @@
 							<th>mtime</th>
 						</tr>
 						<xsl:for-each select="list/*">
-							<tr>
-							</tr>
+							<xsl:choose>
+								<xsl:when test="false()">
+									<tr>
+										<td><a href="{$name}"><xsl:value-of select="." /></a></td>
+										<td>FIXME $title</td>
+										<td><xsl:value-of select="@mtime" /></td>
+									</tr>
+								</xsl:when>
+								<xsl:otherwise>
+									<tr>
+										<td><a href="{$name}"><xsl:value-of select="." /></a></td>
+										<td><!-- dir has no title --></td>
+										<td><xsl:value-of select="@mtime" /></td>
+									</tr>
+								</xsl:otherwise>
+							</xsl:choose>
 						</xsl:for-each>
 					</table>
 				</main>
