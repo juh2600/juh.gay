@@ -14,7 +14,7 @@
 			</head>
 			<body>
 				<main>
-					<h1>Index of <span data-autoindex-title-dirname>here</span></h1>
+					<h1>Index of <span data-autoindex-title-dirname="">here</span></h1>
 					<table>
 						<thead>
 							<tr>
