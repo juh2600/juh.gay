@@ -3,6 +3,9 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="/">
 		<html>
+			<head>
+				<link href=https://cdn.jtreed.org/css/core.css rel=stylesheet />
+			</head>
 			<body>
 				<h3>Dafshabbat</h3>
 				<table border="0">
