@@ -24,8 +24,14 @@
 					</thead>
 					<tbody>
 						<xsl:for-each select="list/*">
+							<xsl:variable name="filename">
+								<xsl:value-of select="."/>
+							</xsl:variable>
+							<xsl:variable name="type">
+								<xsl:value-of select="local-name(.)"/>
+							</xsl:variable>
 							<xsl:choose>
-								<xsl:when test="false()">
+								<xsl:when test="$type='file'">
 									<tr>
 										<td><a href="{$name}"><xsl:value-of select="." /></a></td>
 										<td>FIXME $title</td>
