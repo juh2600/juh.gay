@@ -55,6 +55,10 @@ main > footer > q {
 	flex: 1;
 }
 
+.sourceCode {
+	overflow: auto;
+}
+
 nav.subdir-nav {
 	line-height: 1.25em;
 	padding-bottom: 0.25em;
