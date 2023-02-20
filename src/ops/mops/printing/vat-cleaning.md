@@ -1,9 +1,9 @@
-% Methods of Procedure: Resin Printing Operations
+% MOP: Cleaning a Resin Printing Vat
 
 [![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers#general)
 [![General disclaimer](https://img.shields.io/badge/disclaimer-hazmat-red.svg)](/advice/disclaimers#hazmat)
 
-# Vat cleaning
+# Method of Procedure: Cleaning a Photopolymer Resin Vat
 
 1. Equipment check and workspace prep
 	1. Inspect PPE for wear
