@@ -1,3 +1,7 @@
+% "strong feelings about the web"
+
+# "strong feelings about the web"
+
 so like... the web is a GUI framework. it's insanely powerful when you use it as a GUI framework. it's pretty intuitive and easy to use as a GUI framework. you can deploy pretty and functional documentation and elegant applications when you use the web as a GUI framework. it even has some interactivity built into it with javascript, so you can do some things without notifying the server. some things. when it's appropriate.
 
 the web offers amazing potential, but that potential is squandered, because:
