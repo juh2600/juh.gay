@@ -23,8 +23,8 @@ for subdir in (find src/ -type d)
 	# also link in dir-specific css
 	# joe you're gonna have no idea what this was for in like a week
 	# you wanted to add styles to the /essays/ dir so you did this horrible shit instead of just...not
-	set -x rawsubdir (echo $subdir | sed 's ^src/ /css/ g')
-	set -x cmd ln -s $rawsubdir $newsubdir/.css
+	set -x rawsubdir (echo $subdir | sed 's ^src/  g')
+	set -x cmd ln -s (pwd)/css/$rawsubdir $newsubdir/.css
 	echo $cmd
 	$cmd
 end
