@@ -1,0 +1,12 @@
+body { color: #aaa; }
+
+main p, main ol, main ul {
+	max-width: 6in;
+	margin-left: auto;
+	margin-right:  auto;
+	line-height: 1.3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
