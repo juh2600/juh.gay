@@ -40,7 +40,7 @@ well, ok, yeah, so...
 
 yeah... sometimes i feel down about it, but i'm trying to [do more things](/projects.md)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
 
-## wow juh, you are so cool and i want to talk to you {#contact}
+## wow juh, you are [so cool](/essays/people-are-hard-and-so-am-i.md) and i want to talk to you {#contact}
 
 you're welcome to trigger my anxiety by messaging me out of the blue:
 
