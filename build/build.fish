@@ -30,13 +30,16 @@ for subdir in (find src/ -type d)
 end
 
 # process all markdown files
+# $rawfile represents the path to the file under ./src, ./doc, and most importantly, under / on the live site
 for infile in (find src/ -type f | grep '\.md$')
 	#echo ==\> $infile
 	#set -x outfile (echo $infile | sed 's ^src/ doc/ g; s \.md$ .html g')
+	set -x rawfile (echo $infile | sed 's ^src/  g')
 	set -x outfile (echo $infile | sed 's ^src/ doc/ g')
 	set -x cmd pandoc \
     --css="https://cdn.jtreed.org/css/core.css" --css="/css/tweaks.css" --template=build/pandoc-template.html \
-    --wrap=none -t html -o /dev/stdout $infile
+    --wrap=none -t html -o /dev/stdout $infile \
+    --metadata=filepath=$rawfile
     #-o $outfile $infile
 	echo $cmd
 	$cmd | sed -Ee 's@<a (href=[^>]+://[^>]+>)@<a target=_blank \1@g' > $outfile # sed compels external links to open in new tabs
