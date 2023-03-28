@@ -8,7 +8,7 @@
 - chase a tornado
 - design something cool ee-wise
 - build a kick-ass machine shop
-- develop someting novel that makes people think "this guy contributed something cool and important"
+- develop something novel that makes people think "this guy contributed something cool and important"
 - leave behind a grand puzzle for the world, like in the movies!
 - ~~learn to drive stick~~
 - ~~find mutual love~~
