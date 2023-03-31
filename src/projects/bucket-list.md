@@ -17,3 +17,4 @@
 - total a vehicle
 - ~~work at google~~
 - write something that i don't regret ten years later
+- buy an ice cream cake
