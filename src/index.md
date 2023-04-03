@@ -71,4 +71,4 @@ yes!! the fun part!
 - [toast](https://etoast.me/)
 - [ryan](https://ryanunroe.com/)
 - shenzao should work on a site
-- [kaisa](http://www.kaisavi.net) (http warning)
+- [kaisa](https://www.kaisavi.net)
