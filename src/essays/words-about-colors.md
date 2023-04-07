@@ -1,5 +1,7 @@
 % colors, man
 
+[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers.md#general)
+
 # colors, man
 
 Colors are neat. You can use them to make things safer, easier and prettier, or you can use them to make things harder to use and painful to look at. Let's try using them for good, eh? I'll probably add to this article over time when the mood strikes.
