@@ -2,6 +2,7 @@
 
 # this should be run from top level of repo, e.g., `build/build.fish'
 # (because the files/dirs referenced below are relative to top of repo)
+# (idk if it really matters)
 
 set -x indir src/
 set -x outdir doc/
@@ -9,20 +10,21 @@ set -x resources js css files images
 set -x nginx_files xslt
 set -x nginx_files_target /tmp/nginx
 
+set -x hash (git rev-parse --short HEAD) # use this for invalidating browser caches
+
 # make clean
 rm -rf $outdir
 rm -rf $nginx_files_target
 
 # duplicate directory structure
 for subdir in (find src/ -type d)
-	#echo ==\> $subdir
 	set -x newsubdir (echo $subdir | sed 's ^src/ doc/ g')
 	set -x cmd mkdir -p $newsubdir
 	echo $cmd
 	$cmd
-	# also link in dir-specific css
-	# joe you're gonna have no idea what this was for in like a week
-	# you wanted to add styles to the /essays/ dir so you did this horrible shit instead of just...not
+# also link in dir-specific css
+# joe you're gonna have no idea what this was for in like a week
+# you wanted to add styles to the /essays/ dir so you did this horrible shit instead of just...not
 	set -x rawsubdir (echo $subdir | sed 's ^src/  g')
 	set -x cmd ln -s (pwd)/css/$rawsubdir $newsubdir/.css
 	echo $cmd
@@ -32,15 +34,16 @@ end
 # process all markdown files
 # $rawfile represents the path to the file under ./src, ./doc, and most importantly, under / on the live site
 for infile in (find src/ -type f | grep '\.md$')
-	#echo ==\> $infile
-	#set -x outfile (echo $infile | sed 's ^src/ doc/ g; s \.md$ .html g')
 	set -x rawfile (echo $infile | sed 's ^src/  g')
 	set -x outfile (echo $infile | sed 's ^src/ doc/ g')
 	set -x cmd pandoc \
-    --css="https://cdn.jtreed.org/css/core.css" --css="/css/tweaks.css" --template=build/pandoc-template.html \
-    --wrap=none -t html -o /dev/stdout $infile \
-    --metadata=filepath=$rawfile
-    #-o $outfile $infile
+		--template=build/pandoc-template.html \
+		--css="https://cdn.jtreed.org/css/core.css" \
+		--css="/css/tweaks.css?hash=$hash" \
+		--css=".css/default.css?hash=$hash" \
+		--metadata=filepath=$rawfile \
+		--metadata=hash=$hash \
+		--wrap=none -t html -o /dev/stdout $infile
 	echo $cmd
 	$cmd | sed -Ee 's@<a (href=[^>]+://[^>]+>)@<a target=_blank \1@g' > $outfile # sed compels external links to open in new tabs
 end
