@@ -30,6 +30,8 @@ Use vibrant, easy-to-see colors. This kind of goes back to the point above; the 
 
 Here's the big kicker: Do NOT rely solely on color to indicate anything. Color blindness is a real thing, and as an engineer, it's a condition that warrants your consideration. If you find yourself with a system whose state can _only_ be identified by color, you need to rework it so that someone who can't tell the difference, can tell the difference. (If you're designing for regular-blind users too, well, I hope you can see how color coding isn't going to help them.)
 
+---------------------
+
 # Future topics maybe
 
 ## Contrast and legibility
