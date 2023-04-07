@@ -11,3 +11,10 @@ main p, main ol, main ul {
 h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 }
+
+figure {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 0.7rem;
+	text-align: center;
+}
