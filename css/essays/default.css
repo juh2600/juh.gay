@@ -18,3 +18,5 @@ figure {
 	font-size: 0.7rem;
 	text-align: center;
 }
+
+figure * { width: unset; }
