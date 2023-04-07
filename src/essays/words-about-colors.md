@@ -20,7 +20,7 @@ If your team wears hi-vis vests, that's fine, those are industry standard and no
 
 There are really many things that should be flagged with high-vis colors, including corners, sharp edges, protruding ends, energy release mechanisms, motion controls, floor hazards, hanging cables... generally anything that would make someone say either "watch out for that" or "ow". So, as with every other tool: Please use high-visibility colors, when and only when appropriate. :)
 
-## Overdependency and underutilization of color coding
+## Color coding
 
 You should use color coding for quick identification. I won't get into how to use this tool correctly because frankly it's not that hard to figure out. We're going to discuss how _not_ to use it.
 
