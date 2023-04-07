@@ -5,7 +5,7 @@
 
 set -x indir src/
 set -x outdir doc/
-set -x resources js css files
+set -x resources js css files images
 set -x nginx_files xslt
 set -x nginx_files_target /tmp/nginx
 
