@@ -6,7 +6,7 @@ Colors are neat. You can use them to make things safer, easier and prettier, or 
 
 ## Overuse of high-visibility colors
 
-This topic was the reason I started this article. I recently began mentoring an FRC team, and attended a couple of competitions over the past few weeks. One of the other teams at the event had settled on high-vis yellow jumpsuits as their uniform, and this irked me.
+This topic was the reason I started this article. I recently began mentoring an FRC team, and attended a couple of competitions over the past few weeks. One of the other teams at the events had settled on high-vis yellow jumpsuits as their uniform, and this irked me.
 
 I went to find a meme and do a crappy edit job on the text, but this showed up first and it's close enough:
 
