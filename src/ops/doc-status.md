@@ -51,6 +51,7 @@ To send a document to `review`, the author takes these steps:
 1. Change the `status` in the document's metadata block to `review`.
 2. [Create an issue](https://github.com/josephreed2600/juh.gay/issues/new?assignees=&labels=documentation%2C+review-request&template=peer-review-request.md&title=%5BReview%5D+%2Fsrc%2Fpath%2Fto%2Ffile.md) on the site's GitHub using the review template.
 3. Add the review to the `reviews` list in the metadata block, omitting the reviewer's name:
+
         ```yaml
         reviews:
         - name: 
