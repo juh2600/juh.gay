@@ -5,12 +5,7 @@ authors:
 - juh
 owners:
 - juh
-reviews:
-- name: juh
-  date: 2023-03-05
-  status:
-    fail: yes
-  link: https://github.com/josephreed2600/juh.gay/issues/14
+reviews: no
 dependencies: no
 disclaimers:
   general: yes
@@ -136,11 +131,13 @@ owners:
 reviews:
 - name: jes
   date: 2023-04-30
-  status.ongoing:
+  status:
+    ongoing: yes
   link: https://github.com/josephreed2600/juh.gay/issues/14
 - name: juh
   date: 2023-03-05
-  status: fail
+  status:
+    fail: yes
   link: https://github.com/josephreed2600/juh.gay/issues/14
 dependencies:
 - /dev/null.md
@@ -152,7 +149,7 @@ status:
 ---
 ```
 
-Disclaimers and status (both document and review level) are kind of goofy because Pandoc's template conditionals only know how to discern whether a key is present or absent; there are no comparisons to be made ([SO answer about this](https://stackoverflow.com/a/45515240)).
+Disclaimers and status (both document and review level) are kind of goofy because Pandoc's template conditionals only know how to discern whether a key is present or absent; there are no comparisons to be made ([SO answer about this](https://stackoverflow.com/a/45515240)). I'm getting that feeling that I'm using the wrong tool for the job.
 
 ## Magic words
 
@@ -160,8 +157,10 @@ Some metadata fields are constrained to a few possible values, listed here:
 
 ```yaml
 status: [draft, review, approved, deprecated, obsolete, obsolete-draft]
-disclaimers: [general, hazmat, legal, money] # any of the anchored sections in /advice/disclaimers.md should be ok
+disclaimers: [general, hazmat, legal, money] # any of the anchored sections in /advice/disclaimers.md should be ok, although they need to be defined in build/inject-doc-metadata.html
+reviews: [no, (list)]
 reviews[].status: [ongoing, pass, fail, abort]
+dependencies: [no, (list)]
 ```
 
-These magic words are recognized by the Pandoc templates in `build/` that use the metadata block to produce HTML.
+These magic words are recognized by the Pandoc templates in `build/` that use the metadata block to produce HTML. For lists such as `reviews` and `dependencies`, mark `no` instead of leaving the value empty to have a message generated in the output that indicates there is nothing to show there.
