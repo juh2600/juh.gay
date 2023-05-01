@@ -1,5 +1,5 @@
 ---
-title: Policy: Recording the lab
+title: Policy\: Recording the lab
 date: 2023-05-01
 authors:
 - juh

@@ -1,5 +1,5 @@
 ---
-title: MOP: Record lab coat damage
+title: MOP\: Record lab coat damage
 date: 2023-05-01
 authors:
 - juh
