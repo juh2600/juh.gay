@@ -1,5 +1,5 @@
 ---
-title: MOP\: Change of lab coat
+title: 'MOP: Change of lab coat'
 date: 2023-05-01
 authors:
 - juh

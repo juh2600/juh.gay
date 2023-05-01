@@ -1,5 +1,5 @@
 ---
-title: MOP\: Human egress from lab
+title: 'MOP: Human egress from lab'
 date: 2023-05-01
 authors:
 - juh

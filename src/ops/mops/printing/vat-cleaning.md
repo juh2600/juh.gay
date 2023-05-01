@@ -1,5 +1,5 @@
 ---
-title: MOP\: Cleaning a photopolymer resin vat
+title: 'MOP: Cleaning a photopolymer resin vat'
 date: 2023-05-01
 authors:
 - juh
