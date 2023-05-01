@@ -45,7 +45,10 @@ for infile in (find src/ -type f | grep '\.md$')
 		--metadata=hash=$hash \
 		--wrap=none -t html -o /dev/stdout $infile
 	echo $cmd
-	$cmd | sed -Ee 's@<a (href=[^>]+://[^>]+>)@<a target=_blank \1@g' > $outfile # sed compels external links to open in new tabs
+	$cmd \
+		| sed -Ee 's@<a (href=[^>]+://[^>]+>)@<a target=_blank \1@g' \
+		| sed -Ee 's (https://img.shields.io/badge/[^"\' ]*)([0-9]{4})-([0-9]{2})-([0-9]{2})([^"\' ]*\.svg) \1\2--\3--\4\5 g' \
+	> $outfile # sed compels external links to open in new tabs, and fixes hyphens in dates in badges
 end
 
 # link web resources into server-accessible space

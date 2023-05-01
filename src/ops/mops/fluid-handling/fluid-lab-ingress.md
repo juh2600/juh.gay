@@ -1,5 +1,5 @@
 ---
-title: Inventory of hazardous materials
+title: 'MOP: Ingress of fluid into lab'
 date: 2023-05-01
 authors:
 - juh
@@ -13,8 +13,3 @@ disclaimers:
 status:
   draft: yes
 ---
-
-
-# Hazardous materials in stock
-
-# Notes

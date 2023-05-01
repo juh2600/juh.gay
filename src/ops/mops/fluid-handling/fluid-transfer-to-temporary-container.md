@@ -1,5 +1,5 @@
 ---
-title: Inventory of hazardous materials
+title: 'MOP: Transferring fluid into a temporary container'
 date: 2023-05-01
 authors:
 - juh
@@ -14,7 +14,4 @@ status:
   draft: yes
 ---
 
-
-# Hazardous materials in stock
-
-# Notes
+# Method of Procedure: Transferring a Fluid into a Temporary Container

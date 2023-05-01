@@ -42,11 +42,12 @@ yeah... sometimes i feel down about it, but i'm trying to [do more things](/proj
 
 ## wow juh, you are [so cool](/essays/people-are-hard-and-so-am-i.md) and i want to talk to you {#contact}
 
-you're welcome to trigger my anxiety by messaging me out of the blue:
+you're welcome to reach out any time, and i'll answer when i feel like it:
 
 - juh@[libera](https://web.libera.chat), jtreed secondary
 - [juh.gay+\<your handle here\>@you.jtreed.org](mailto:juh.gay+FIXME_your_handle_here@you.jtreed.org)
-- discord available upon request, i use it but it's an easy target for spam so i don't think i'll publish it on the web
+- _FIRST_ Robotics contact: [jtreed@firstinspires.jtreed.org](mailto:jtreed@firstinspires.jtreed.org)
+- discord: [juh#9620](https://discordapp.com/users/131896826847690753)
 - if you call me i will not answer :)
 
 i also exist in a couple of other places:

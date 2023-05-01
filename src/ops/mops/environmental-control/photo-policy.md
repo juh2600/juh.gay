@@ -1,5 +1,5 @@
 ---
-title: Inventory of hazardous materials
+title: 'Policy: Recording the lab'
 date: 2023-05-01
 authors:
 - juh
@@ -9,12 +9,7 @@ reviews: no
 dependencies: no
 disclaimers:
   general: yes
-  hazmat: yes
+  legal: yes
 status:
   draft: yes
 ---
-
-
-# Hazardous materials in stock
-
-# Notes

@@ -1,7 +1,18 @@
-% MOP: Cleaning a Resin Printing Vat
-
-[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers.md#general)
-[![General disclaimer](https://img.shields.io/badge/disclaimer-hazmat-red.svg)](/advice/disclaimers.md#hazmat)
+---
+title: 'MOP: Cleaning a photopolymer resin vat'
+date: 2023-05-01
+authors:
+- juh
+owners:
+- juh
+reviews: no
+dependencies: no
+disclaimers:
+  general: yes
+  hazmat: yes
+status:
+  draft: yes
+---
 
 # Method of Procedure: Cleaning a Photopolymer Resin Vat
 
