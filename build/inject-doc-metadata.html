@@ -1,0 +1,63 @@
+<!-- stuff juh wrote for his stupid doc tracking program -->
+<section>
+	<h1>Document metadata</h1>
+
+	<!-- doc status -->
+	$if(status.draft)$
+	<a href="/ops/doc-status.md#draft"><img src="https://img.shields.io/badge/status-draft-red.svg" alt="Document status: Draft" /></a>
+	$endif$
+	$if(status.review)$
+	<a href="/ops/doc-status.md#review"><img src="https://img.shields.io/badge/status-review-yellow.svg" alt="Document status: In Review" /></a>
+	$endif$
+	$if(status.approved)$
+	<a href="/ops/doc-status.md#approved"><img src="https://img.shields.io/badge/status-approved-brightgreen.svg" alt="Document status: Approved" /></a>
+	$endif$
+	$if(status.deprecated)$
+	<a href="/ops/doc-status.md#deprecated"><img src="https://img.shields.io/badge/status-deprecated-darkorange.svg" alt="Document status: Deprecated" /></a>
+	$endif$
+	$if(status.obsolete)$
+	<a href="/ops/doc-status.md#obsolete"><img src="https://img.shields.io/badge/status-obsolete-darkred.svg" alt="Document status: Obsolete" /></a>
+	$endif$
+	$if(status.draft-obsolete)$
+	<a href="/ops/doc-status.md#draft"><img src="https://img.shields.io/badge/status-draft-red.svg" alt="Document status: Draft" /></a>
+	<a href="/ops/doc-status.md#obsolete"><img src="https://img.shields.io/badge/status-obsolete-darkred.svg" alt="Document status: Obsolete" /></a>
+	$endif$
+	<!-- end of doc status -->
+
+	<!-- disclaimers -->
+	$if(disclaimers.general)$
+	<a href="/advice/disclaimers.md#general"><img src="https://img.shields.io/badge/disclaimer-general-brightgreen.svg" alt="General disclaimer" /></a>
+	$endif$
+	$if(disclaimers.hazmat)$
+	<a href="/advice/disclaimers.md#hazmat"><img src="https://img.shields.io/badge/disclaimer-hazmat-red.svg" alt="Hazmat disclaimer" /></a>
+	$endif$
+	$if(disclaimers.legal)$
+	<a href="/advice/disclaimers.md#legal"><img src="https://img.shields.io/badge/disclaimer-legal-yellow.svg" alt="Legal disclaimer" /></a>
+	$endif$
+	$if(disclaimers.money)$
+	<a href="/advice/disclaimers.md#money"><img src="https://img.shields.io/badge/disclaimer-money-yellow.svg" alt="Financial disclaimer" /></a>
+	$endif$
+	<!-- end of disclaimers -->
+	
+	<p>Authors: $for(authors)$$it$$sep$, $endfor$</p>
+	<p>Owners: $for(owners)$$it$$sep$, $endfor$</p>
+<details><summary>Reviews</summary>
+	$for(reviews)$
+	$if(it.status.ongoing)$
+	<a href="$it.link$"><img src="https://img.shields.io/badge/$it.name$-$it.date$-yellow.svg" alt="review underway by $it.name$ as of $it.date$" /></a>
+	$elseif(reviews.status.pass)$
+	<a href="$it.link$"><img src="https://img.shields.io/badge/$it.name$-$it.date$-brightgreen.svg" alt="document approved by $it.name$ on $it.date$" /></a>
+	$elseif(reviews.status.fail)$
+	<a href="$it.link$"><img src="https://img.shields.io/badge/$it.name$-$it.date$-red.svg" alt="document rejected by $it.name$ on $it.date$" /></a>
+	$endif$
+	<!-- aborted reviews are not shown, but i'm not going to tell you why -->
+	$endfor$
+</details>
+<details><summary>Dependencies</summary>
+	$for(dependencies)$
+	<a href="$it$">$it$</a>
+	$endfor$
+</details>
+</section>
+<br />
+<!-- end of doc status tracking junk -->
