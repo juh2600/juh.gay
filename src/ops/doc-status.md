@@ -25,7 +25,7 @@ Every document MUST bear exactly one of these badges, OR `draft` and `obsolete` 
 ~  `draft` status indicates that a document is still in its creation phase, has not been reviewed for correctness, and may be (is probably) incomplete. These documents SHOULD NOT be executed (except for testing) and MUST NOT be referenced as sources of truth.
 
 [![Document status: Review](https://img.shields.io/badge/status-review-yellow.svg)]{#review}
-~  `review` status indicates that the author thinks the document may be complete, but it needs further review (possibly by a third party) to ensure correctness. These documents SHOULD NOT be executed and SHOULD NOT be referenced as sources of truth.
+~  `review` status indicates that the author thinks the document may be complete, but it needs review by a second person to ensure correctness. These documents SHOULD NOT be executed and SHOULD NOT be referenced as sources of truth.
 
 [![Document status: Approved](https://img.shields.io/badge/status-approved-brightgreen.svg)]{#approved}
 ~  `approved` status means that this document is believed to be complete and correct and has passed any reviews that the author deemed necessary. These documents MUST be treated as sources of truth for operations at in-scope facilities (namely, juh's bedroom lab). If you are a third-party reader intending to use these documents, you SHOULD NOT treat these as sources of truth, and SHOULD conduct additional review of all information you wish to use. Please review the various [disclaimers](/advice/disclaimers.md).
@@ -35,8 +35,6 @@ Every document MUST bear exactly one of these badges, OR `draft` and `obsolete` 
 
 [![Document status: Obsolete](https://img.shields.io/badge/status-obsolete-darkred.svg)]{#obsolete}
 ~  `obsolete` means that the document is no longer canonical. These documents MUST NOT be executed or treated as sources of truth. These documents MAY be annotated with an explanation of why they are obsolete, and SHOULD link to any documents that supersede them. These documents are considered "irredeemable" and cannot leave the `obsolete` state. If information in an `obsolete` document is once again needed, it must be recreated in a new `draft` and receive standard treatment.
-
-Every document tagged `approved`, `deprecated`, or `obsolete` MUST additionally bear a `freshness` badge indicating the last date that it was reviewed and reaffirmed in its entirety. This may not be the same as the last date that the document was changed, if the document was changed without reviewing the whole thing.
 
 A document MAY be tagged as both `draft` and `obsolete` at the same time, in which case, it is exempt from the freshness badge requirement. This use case is intended for abandoned drafts.
 
@@ -54,12 +52,12 @@ To send a document to `review`, the author takes these steps:
 2. [Create an issue](https://github.com/josephreed2600/juh.gay/issues/new?assignees=&labels=documentation%2C+review-request&template=peer-review-request.md&title=%5BReview%5D+%2Fsrc%2Fpath%2Fto%2Ffile.md) on the site's GitHub using the review template.
 3. Add the review to the `reviews` list in the metadata block, omitting the reviewer's name:
     ```yaml
-	reviews:
-	- name: 
-	  date: 20230430
-	  status: ongoing
-	  link: https://github.com/josephreed2600/juh.gay/issues/14
-	```
+    reviews:
+    - name: 
+      date: 20230430
+      status: ongoing
+      link: https://github.com/josephreed2600/juh.gay/issues/14
+    ```
 
 ## Executing a review (reviewer)
 
