@@ -1,7 +1,7 @@
 ---
 name: Peer review request
 about: Request a peer review of a document prior to acceptance as canonical.
-title: "[Review] /src/path/to/file.md"
+title: "[Review] src/ops/path/to/file.md"
 labels: documentation, review-request
 assignees: ''
 
@@ -13,10 +13,10 @@ assignees: ''
 
 # Files
 
-Primary file to review: /src/path/to/file.md
+Primary file to review: src/ops/path/to/file.md
 
 Impacted files:
- - /src/a.md
- - /src/b.md
+ - src/a.md
+ - src/b.md
 
 # Explanation of need for review
