@@ -1,7 +1,18 @@
-% PPE inventory
-
-[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers.md#general)
-[![General disclaimer](https://img.shields.io/badge/disclaimer-hazmat-red.svg)](/advice/disclaimers.md#hazmat)
+---
+title: Inventory of personal protective equipment
+date: 2023-05-01
+authors:
+- juh
+owners:
+- juh
+reviews: no
+dependencies: no
+disclaimers:
+  general: yes
+  hazmat: yes
+status:
+  draft: yes
+---
 
 # Personal protective equipment in stock
 

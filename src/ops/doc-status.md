@@ -1,6 +1,6 @@
 ---
-title: Sample document title
-date: 2023-04-30
+title: Document lifecycle and tracking policies
+date: 2023-05-01
 authors:
 - juh
 owners:

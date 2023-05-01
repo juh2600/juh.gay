@@ -1,9 +1,18 @@
-% Checklist: Safe storage practices
-
-
-[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers.md#general)
-[![General disclaimer](https://img.shields.io/badge/disclaimer-hazmat-red.svg)](/advice/disclaimers.md#hazmat)
-
+---
+title: Safe storage practices
+date: 2023-05-01
+authors:
+- juh
+owners:
+- juh
+reviews: no
+dependencies: no
+disclaimers:
+  general: yes
+  hazmat: yes
+status:
+  draft: yes
+---
 
 - [ ] All fluid containers are stored as close to floor level as possible.
       Rationale: In the event of a leak or spill, the less distance the fluid can fall, the fewer surfaces can be contaminated by the fluid. In the event of a tip or drop, less falling distance and fewer obstacles reduce the likelihood of a puncture and subsequent leak.

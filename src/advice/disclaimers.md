@@ -1,4 +1,18 @@
-% Disclaimers
+---
+title: Disclaimers
+date: 2023-05-01
+authors:
+- juh
+owners:
+- juh
+reviews: no
+dependencies: no
+disclaimers:
+  general: yes
+status:
+  draft: yes
+---
+
 
 # RFC 2119/BCP 14 notice {#bcp14}
 
