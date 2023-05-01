@@ -7,11 +7,11 @@
 		{"type":"text","text":"review","id":"8353d26d817170ad","x":-600,"y":60,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
-		{"id":"f27764bb7928a554","fromNode":"a0ca8150fd761a8b","fromSide":"left","toNode":"8353d26d817170ad","toSide":"left","label":"released for review"},
+		{"id":"f27764bb7928a554","fromNode":"a0ca8150fd761a8b","fromSide":"left","toNode":"8353d26d817170ad","toSide":"left","label":"sent for review"},
 		{"id":"57db26b4f87ab987","fromNode":"8353d26d817170ad","fromSide":"top","toNode":"081b8cafa0dfc62c","toSide":"left","label":"approved\nby reviewer"},
 		{"id":"b93d4a4b7707ff2b","fromNode":"081b8cafa0dfc62c","fromSide":"right","toNode":"63f5acff9835567c","toSide":"top","label":"slated for\nobsoletion"},
 		{"id":"78b21ded50ce0c91","fromNode":"63f5acff9835567c","fromSide":"bottom","toNode":"12b239bf27351834","toSide":"top","label":"all dependencies on\nthis doc have been\nfully eliminated"},
-		{"id":"da35f2583f06c454","fromNode":"8353d26d817170ad","fromSide":"bottom","toNode":"a0ca8150fd761a8b","toSide":"top","label":"rejected by reviewer"},
+		{"id":"da35f2583f06c454","fromNode":"8353d26d817170ad","fromSide":"bottom","toNode":"a0ca8150fd761a8b","toSide":"top","label":"rejected by reviewer\nor author"},
 		{"id":"e6e6523e28f4ce07","fromNode":"63f5acff9835567c","fromSide":"bottom","toNode":"8353d26d817170ad","toSide":"right","label":"decided to just fix it\ninstead of killing it"},
 		{"id":"ae40cfd02bf02ffb","fromNode":"a0ca8150fd761a8b","fromSide":"right","toNode":"12b239bf27351834","toSide":"left","label":"killed without review"},
 		{"id":"8867072b29b3ace5","fromNode":"081b8cafa0dfc62c","fromSide":"bottom","toNode":"8353d26d817170ad","toSide":"right","label":"significant changes\nrequire full review"}
