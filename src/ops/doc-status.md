@@ -11,7 +11,7 @@ reviews:
   status:
     fail: yes
   link: https://github.com/josephreed2600/juh.gay/issues/14
-dependencies:
+dependencies: no
 disclaimers:
   general: yes
 status:
@@ -20,7 +20,7 @@ status:
 
 # Scope of authority {#scope}
 
-Every document under https://juh.gay/ops/ is in scope of this document. All other documents are not in scope.
+Every document under [https://juh.gay/ops/](https://juh.gay/ops/) is in scope of this document. All other documents are not in scope.
 
 # Document status definitions {#definitions}
 
