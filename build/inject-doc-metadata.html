@@ -44,6 +44,7 @@
 	<p>Owners: $for(owners)$$it$$sep$, $endfor$</p>
 	</details>
 <details><summary>Reviews</summary>
+	$if(reviews)$
 	$for(reviews)$
 	$if(it.status.ongoing)$
 	<a href="$it.link$"><img src="https://img.shields.io/badge/$it.name$-$it.date$-yellow.svg" alt="review underway by $it.name$ as of $it.date$" title="review underway by $it.name$ as of $it.date$" /></a>
@@ -54,11 +55,18 @@
 	$endif$
 	<!-- aborted reviews are not shown, but i'm not going to tell you why -->
 	$endfor$
+	$else$
+	<p>This document has never been reviewed.</p>
+	$endif$
 </details>
 <details><summary>Dependencies</summary>
-	$for(dependencies)$
-	<a href="$it$">$it$</a>
-	$endfor$
+	$if(dependencies)$
+	<ul>
+	$for(dependencies)$<li><a href="$it$">$it$</a></li>$endfor$
+	</ul>
+	$else$
+	<p>This document does not strictly depend on any others.</p>
+	$endif$
 </details>
 </section>
 <br />
