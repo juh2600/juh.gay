@@ -1,5 +1,5 @@
-$if(status)$
 <!-- stuff juh wrote for his stupid doc tracking program -->
+$if(status)$
 <section>
 	<h1>Document metadata</h1>
 
@@ -24,6 +24,7 @@ $if(status)$
 	<a href="/ops/doc-status.md#obsolete"><img src="https://img.shields.io/badge/status-obsolete-darkred.svg" alt="Document status: Obsolete" /></a>
 	$endif$
 	<!-- end of doc status -->
+$endif$
 
 	<!-- disclaimers -->
 	$if(disclaimers.general)$
@@ -40,6 +41,7 @@ $if(status)$
 	$endif$
 	<!-- end of disclaimers -->
 	
+$if(status)$
 	<details><summary>Authorities</summary>
 	<p>Authors: $for(authors)$$it$$sep$, $endfor$</p>
 	<p>Owners: $for(owners)$$it$$sep$, $endfor$</p>
@@ -71,5 +73,5 @@ $if(status)$
 </details>
 </section>
 <br />
-<!-- end of doc status tracking junk -->
 $endif$
+<!-- end of doc status tracking junk -->
