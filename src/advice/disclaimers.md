@@ -44,6 +44,8 @@ I'm not a chemist, a logistics professional, a lawyer, or a safety expert. I'm b
 
 I am not a lawyer in any sense. I have decent command of the English language and use of the Internet. Don't mistake these for a law degree! If you're thinking of applying my interpretations of the law to anything in your own life, I would encourage you to read the relevant literature yourself, draw your own conclusions, and if there's any apparent gravity to the situation, consult an attorney. If you believe that something I have written is erroneous or creates danger, please [let me know](#contact).
 
+Also...I don't know shit about licensing...sorry. I try, sort of. My tolerance for bullshit in this arena is low.
+
 # Money & taxes {#money}
 
 [![Financial disclaimer](https://img.shields.io/badge/disclaimer-money-yellow.svg)](/advice/disclaimers.md#money)
