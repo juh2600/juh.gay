@@ -11,3 +11,4 @@ This is a list of art ideas I thought would be cute. Feel free to use them! If t
 - ad campaign for taco bell's blahaj blast
 - tower of hanoi but the disks are cats
 - slice of life telling the story of a new datacenter technician (think Cells at Work)
+- drone in the rain with the cutest lil umbrellaaaaaa
