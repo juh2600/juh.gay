@@ -1,6 +1,10 @@
-% Merit of an Idea
-
-[![General disclaimer](https://img.shields.io/badge/disclaimer-general-brightgreen.svg)](/advice/disclaimers.md#general)
+---
+title: On the merit of an idea
+author: juh
+date: 2023-02-20
+disclaimers:
+  general: true
+---
 
 _NB: This did not originate as a commentary on chatbots, but it does apply there._
 
