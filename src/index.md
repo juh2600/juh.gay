@@ -73,3 +73,4 @@ yes!! the fun part!
 - [ryan](https://ryanunroe.com/)
 - shenzao should work on a site
 - [kaisa](https://www.kaisavi.net)
+- [daniel the fox](http://danielthefox.tk) (http warning)
