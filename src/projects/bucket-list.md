@@ -20,3 +20,5 @@
 - buy an ice cream cake
 - attend a great school
 - learn to fly a helicopter
+- study pyrotechnics
+- launch a rocket that is cool and unique in some way
