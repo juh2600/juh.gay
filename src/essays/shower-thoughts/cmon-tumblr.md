@@ -3,7 +3,7 @@
 There are three major types of industry standards:
 
 - There are the scientifically validated standards, like good cryptography practices. These you should follow.
-- There are the totally arbitrary standards, like abandoning squircles in favor of flat squares. You can do whatever you want ([not that you should](/essays/strong-feelings-about-the-web)).
+- There are the totally arbitrary standards, like abandoning squircles in favor of flat squares. You can do whatever you want ([not that you should](/essays/strong-feelings-about-the-web.md)).
 - There are rumors of a pot of gold in the river.
 
 If all the other social media jumped off a bridge, would you do it too?
