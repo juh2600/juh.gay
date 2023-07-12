@@ -16,9 +16,11 @@
 - burn down a building (affectionate)
 - total a vehicle
 - ~~work at google~~
+- work at nasa
 - write something that i don't regret ten years later
 - buy an ice cream cake
 - attend a great school
 - learn to fly a helicopter
 - study pyrotechnics
 - launch a rocket that is cool and unique in some way
+- visit antarctica
