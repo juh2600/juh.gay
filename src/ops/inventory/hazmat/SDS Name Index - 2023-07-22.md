@@ -1,6 +1,6 @@
 ---
 title: Index of SDS binder
-date: 2023-07-05
+date: 2023-07-22
 authors:
 - juh
 owners:
@@ -55,10 +55,12 @@ Marking chalk dust | IRWIN Chalk - White, Standard
 Methyl ketone | Acetone
 Nail polish remover | Acetone
 Nitrile Examination Glove, Powder-free | Nitrile Examination Glove, Powder-free
+Orange Zep | Zep Concentrated Heavy-Duty Citrus Degreaser & Cleaner
 Photopolymer resin | Elegoo Standard Photopolymer Resin
 Powder-free nitrile exam glove | Nitrile Examination Glove, Powder-free
 Propan-2-one | Acetone
 Propanone | Acetone
+Purple Zep | Zep Industrial Purple Degreaser & Cleaner
 Pyroacetic acid | Acetone
 Pyroacetic ether | Acetone
 R42310 | Zep Industrial Purple Degreaser & Cleaner
@@ -84,5 +86,5 @@ WD-40 Multi-Use Product Aerosol | WD-40 Multi-Use Product Aerosol
 White chalk | IRWIN Chalk - White, Standard
 White silica gel desiccant | Dry & Dry White Silica Gel Desiccant
 Zep Industrial Purple Degreaser & Cleaner | Zep Industrial Purple Degreaser & Cleaner
-Zep, Purple, Industrial | Zep Industrial Purple Degreaser & Cleaner
+Zep Concentrated Heavy-Duty Citrus Degreaser & Cleaner | Zep Concentrated Heavy-Duty Citrus Degreaser & Cleaner
 

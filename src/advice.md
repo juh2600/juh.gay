@@ -12,4 +12,6 @@ here are some things i recommend to you, stranger:
 - keep your water bottle where you can see it. if i can't see it i just forget to drink water
 - a jeep should not be your only vehicle
 - resin printing is a small but odiferous nightmare, don't get into it unless you have plenty of space to dedicate to a large grow tent or fume hood. ventilate it. give yourself extra room to work and protect your surfaces. also wear gloves and be careful
+  - update: resin printing is just a regular nightmare. the fume containment. the gloves. the cleaning up after print failures. the pouring. grrrr just don't
+  - wear disposable gloves as an outer layer, so you can cure them and throw them out normally
 - acetone will eat through vinyl gloves, so [choose something else](http://amo-csd.lbl.gov/downloads/Chemical%20Resistance%20of%20Gloves.pdf) (latex or butyl) if you're working with it. that's unrelated to the resin printing comments; you should be using isopropanol for resin washing

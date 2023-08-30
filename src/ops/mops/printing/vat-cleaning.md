@@ -12,6 +12,7 @@ disclaimers:
   hazmat: yes
 status:
   draft: yes
+  obsolete: yes
 ---
 
 # Method of Procedure: Cleaning a Photopolymer Resin Vat

@@ -12,6 +12,7 @@ disclaimers:
   hazmat: yes
 status:
   draft: yes
+  obsolete: yes
 ---
 
 The following must be recorded:

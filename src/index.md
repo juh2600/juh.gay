@@ -24,7 +24,8 @@ I'm exceedingly lazy, with the caveat that I'm willing to do more of fun work in
 well, ok, yeah, so...
 
 - using thinkpads p1g2 for personal and x1cg7 for work, but i don't really like them all that much
-- manjaro is my daily driver (but i've been burned by arch things enough that i'm sticking to debians and containers for all new deployments)
+- recently switched from arch-ish to ubuntu because i thought it was the sustainable thing to do after manjaro shit the bed again. i have some regrets i think. maybe i didn't learn the right lesson
+- recently switched from chrome to firefox because tumblr said so, but not one hot woman has come to make out with me over this and i want a refund
 - i3 and kitty-term and fish and vim
 - docker, docker compose, traefik, nginx
 - used to do a little math, like [partially implementing](https://github.com/Team1323/2018PowerUp-VSC/tree/master/src/main/java/com/team1323/lib/math/vectors) a [guiding vector field path-following algorithm](https://arxiv.org/pdf/1610.04391.pdf) for a particular [holonomic drivetrain](/files/OCILOW_Control.pdf) (i did some navigation/telemetry code too)
@@ -39,6 +40,8 @@ well, ok, yeah, so...
 ## that's a lot of things you don't do anymore {#projects}
 
 yeah... sometimes i feel down about it, but i'm trying to [do more things](/projects.md)! and in the process of building this site, I have learned many things, and I have built a nice little [docker image](https://hub.docker.com/repository/docker/jtreed/semistatic-nginx/) for auto-pulling your git repos and dumping them into nginx tidily :)
+
+i'm working on electrical engineering now! buildin' a lil esp32 boarb for pulling mac addresses :3
 
 ## wow juh, you are [so cool](/essays/people-are-hard-and-so-am-i.md) and i want to talk to you {#contact}
 

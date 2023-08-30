@@ -12,4 +12,5 @@ disclaimers:
   hazmat: yes
 status:
   draft: yes
+  obsolete: yes
 ---

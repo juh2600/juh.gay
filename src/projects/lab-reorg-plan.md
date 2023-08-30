@@ -15,3 +15,5 @@
 13. Apply asset tags, inventory workbench
 14. Load things back into room, labeling and inventorying
 15. Order bench tops?
+
+Mission accomplished!
