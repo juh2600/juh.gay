@@ -64,6 +64,7 @@ i also exist in a couple of other places:
 yes!! the fun part!
 
 - [lain](https://hacktheinter.net)
+- [ana](http://lookat.blue)
 - [jes](https://femtobit.org)
 - [drv](https://drv.nu)
 - [monochroma](javascript:alert("monochroma doesn't believe in the web"))
@@ -76,4 +77,4 @@ yes!! the fun part!
 - [ryan](https://ryanunroe.com/)
 - shenzao should work on a site
 - [kaisa](https://www.kaisavi.net)
-- [daniel the fox](http://danielthefox.tk) (http warning)
+- [daniel the fox](http://danielthefox.tk)
