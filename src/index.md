@@ -4,7 +4,7 @@
 
 ```sh
 $ ls -l juh
-p--b-q--+   2 jtreed jtreed  24/m/seattle Oct  3  1998  juh
+p--b-q--+   3 jtreed jtreed  24/m/seattle Oct  3  1998  juh
 ```
 
 hi
