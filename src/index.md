@@ -5,7 +5,7 @@
 ```sh
 $ ls -l
 p---b-q--+   3 jtreed jtreed  24/mtf/seattle Oct  3  1998  juh
-lrwxrwxrwx   1 ktreed jtreed  24/mtf/seattle Oct  3  1998  kate -> juh
+lrwxrwxrwx   1 ktreed jtreed  24/ f /seattle Sep 25  2023  kate -> juh
 ```
 
 hi
