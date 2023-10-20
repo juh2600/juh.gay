@@ -4,7 +4,7 @@ _This [article originated on Tumblr](https://www.tumblr.com/juh-wasnt-deactivate
 
 _This article has [multiple issues](https://github.com/juh2600/juh.gay/issues/17)._
 
-![[/images/cloud-alignment-matrix.png]]
+![Cloud alignment matrix meme][/images/cloud-alignment-matrix.png]
 
 # Foreword
 
