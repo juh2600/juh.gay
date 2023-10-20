@@ -19,6 +19,7 @@ anyways we got one singular note so let’s go! even though i’m going to disag
 6. Miscellaneous
 
 a lot of this turned out to be about cloud storage specifically, but cloud compute also presents a lot of interesting challenges! I know much less about that though.
+
 ## About the author
 
 I fix one of the largest clouds. As in, I walk into the club with my static dissipative boots, put on my gloves, and handle those precious hard drives with your data on them, all the way to the disk crusher (yes, really). There are at least thousands of people with the same job, maybe O(10k) or even O(100k). I’m going to keep it fairly generic here; I’m not interested in sharing details about my employer or their operations.
