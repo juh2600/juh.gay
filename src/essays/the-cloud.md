@@ -1,6 +1,6 @@
 % the cloud: a tumblr post
 
-> This [article originated on Tumblr](https://www.tumblr.com/juh-wasnt-deactivated19691231/731602959011659776), which presents a login wall before you can finish reading it. I've ported it here for my friends who don't want to log into Tumblr.
+<aside>This [article originated on Tumblr](https://www.tumblr.com/juh-wasnt-deactivated19691231/731602959011659776), which presents a login wall before you can finish reading it. I've ported it here for my friends who don't want to log into Tumblr.</aside>
 
 # Foreword
 
