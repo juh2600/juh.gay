@@ -2,6 +2,8 @@
 
 _This [article originated on Tumblr](https://www.tumblr.com/juh-wasnt-deactivated19691231/731602959011659776), which presents a login wall before you can finish reading it. I've ported it here for my friends who don't want to log into Tumblr._
 
+_This article has [multiple issues](https://github.com/josephreed2600/juh.gay/issues/17)._
+
 # Foreword
 
 you can stop reading if:
