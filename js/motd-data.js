@@ -72,6 +72,8 @@ linear time, logarithmic space, polynomial rising~
 It's always a good idea to color coordinate your bones
 Tinder be like nope nope nope nope nope oooh forklifts
 this is the problem with you philosophers, one spider in your sink and you lose it
+If a document is approved in the woods and no one is around to read it, does it exist?
+Failure will no longer be recognized
 `.split('\n').filter(x => x);
 
 // one motd for the whole page, per load
