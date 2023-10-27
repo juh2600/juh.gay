@@ -9,3 +9,5 @@ Sometimes something speaks to me deeply and changes who I am. I finally decided 
 "I meant what I said, and I said what I meant." - Horton/Dr. Seuss
 
 "There's only one person whose actions you can control, and that's you." - dad
+
+"It's not having what you want; it's wanting what you've got." - Sheryl Crow

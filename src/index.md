@@ -20,7 +20,7 @@ I've wanted to put up a personal site for a while, but today I am avoiding vacuu
 
 I'm exceedingly lazy, with the caveat that I'm willing to do more of fun work in order to avoid doing less of boring work (the [well-explored](https://xkcd.com/1205/) [engineer's conundrum](https://xkcd.com/1319/)). Maybe I'll write about things I'm pretending to work on someday. They're all right here in my notes; maybe I can [export the whole canvas to the web nightly](https://github.com/juh2600/juh.gay/issues/3) or something. That might be cool!
 
-## but juh, you said you used to do things? surely you must use linux? who is this guy? {#experience}
+## but juh, you said you used to do things? surely you must use linux? who is this lady? {#experience}
 
 well, ok, yeah, so...
 
