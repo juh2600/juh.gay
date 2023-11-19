@@ -74,6 +74,7 @@ Tinder be like nope nope nope nope nope oooh forklifts
 this is the problem with you philosophers, one spider in your sink and you lose it
 If a document is approved in the woods and no one is around to read it, is it still normative?
 Failure will no longer be recognized
+Sincerity is key. Once you can fake that, you've got it made
 `.split('\n').filter(x => x);
 
 // one motd for the whole page, per load
