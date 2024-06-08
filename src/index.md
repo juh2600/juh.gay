@@ -52,6 +52,7 @@ you're welcome to reach out any time, and i'll answer when i feel like it:
 - [juh.gay+\<your handle here\>@you.jtreed.org](mailto:juh.gay+FIXME_your_handle_here@you.jtreed.org)
 - _FIRST_ Robotics contact: [jtreed@firstinspires.jtreed.org](mailto:jtreed@firstinspires.jtreed.org)
 - discord: [juh2600](https://discordapp.com/users/131896826847690753)
+- the fedi thingy: [juh@ioc.exchange](https://ioc.exchange/@juh)
 - if you call me i will not answer :)
 
 i also exist in a couple of other places:
