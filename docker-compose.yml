@@ -1,13 +1,8 @@
 services:
-  juh_gay:
-    image: jtreed/semistatic-nginx
+  juh-gay:
+    image: jtreed/juh.gay
+    restart: always
     environment:
-      - FREQUENCY=* * * * *
-      - REPO=https://github.com/josephreed2600/juh.gay.git
       - BRANCH=dev
-      - DIR=doc
-      - NGINX_CONF=nginx.conf
-      - APK_DEPENDS=fish git-lfs pandoc nginx-mod-http-xslt-filter --repository http://dl-cdn.alpinelinux.org/alpine/edge/community
-      - BUILD=build/build.fish
     ports:
       - 80:80
