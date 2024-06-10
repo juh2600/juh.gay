@@ -24,3 +24,8 @@
 - study pyrotechnics
 - launch a rocket that is cool and unique in some way
 - visit antarctica
+- ~~jump through a garage door as it's closing~~
+- assemble a car indoors
+- ~~set up shop in a hotel room~~
+- see an aurora
+- ~~slide down a stair rail~~
