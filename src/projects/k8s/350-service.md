@@ -39,3 +39,7 @@ Because an [Ingress is designed for HTTP traffic](https://kubernetes.github.io/i
 If I'm reading this right, I think you can use one Service to expose ports from multiple different Deployments in the same namespace. As long as the deployments (pods?) match the `selector` criteria (here, having the label `app: mcd`), it seems they're eligible to serve as the back end of this service.
 
 ![Traffic from the Internet is ingested at the service's nodePort, passed to the service's port, then the service forwards from its port to the pod's targetPort, which should be set up to match the deployment's hostPort, which is then mapped to a container's containerPort.](/images/k8s-nodeport-routing.png)
+
+> pod's target port
+
+I think this is wrong...the...deployment...uh... my head hurts, I'll just learn this bit later.
