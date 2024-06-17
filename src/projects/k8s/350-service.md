@@ -25,7 +25,7 @@ next: 380-maintenance
 >       protocol: TCP
 > ```
 
-The Service exposes ports from a Deployment (`port`) to other things, whether that's other resources internally (`targetPort`) or the external network (internet, LAN, whatever) (`nodePort`). Because of the woke, you can't by default expose a `nodePort` outside of 30000--32767. You can configure it otherwise, but I couldn't be bothered to figure out how at the moment, and I'm not sure whether that's a good idea or not. Luckily for us, Minecraft supports the DNS `SRV` record!
+The Service exposes ports from a Deployment (`targetPort`) to [other things](https://stackoverflow.com/a/61452441/6627273), whether that's other resources internally (`port`) or the external network (internet, LAN, whatever) (`nodePort`). Because of the woke, you can't by default expose a `nodePort` outside of 30000--32767. You can configure it otherwise, but I couldn't be bothered to figure out how at the moment, and I'm not sure whether that's a good idea or not. Luckily for us, Minecraft supports the DNS `SRV` record!
 
 ```
 mc.example.org. 300 IN A 1.2.3.4
