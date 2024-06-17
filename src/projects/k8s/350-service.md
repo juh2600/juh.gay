@@ -37,3 +37,5 @@ This will tell the client what address and port to use for the Minecraft server 
 Because an [Ingress is designed for HTTP traffic](https://kubernetes.github.io/ingress-nginx/user-guide/exposing-tcp-udp-services/), we won't use one here, since this is Minecraft and not a web service. (Yes, the article says that there's an ingress controller that can handle TCP and UDP, but the point is that they're not meant for that.)
 
 If I'm reading this right, I think you can use one Service to expose ports from multiple different Deployments in the same namespace. As long as the deployments (pods?) match the `selector` criteria (here, having the label `app: mcd`), it seems they're eligible to serve as the back end of this service.
+
+![Traffic from the Internet is ingested at the service's nodePort, passed to the service's port, then the service forwards from its port to the pod's targetPort, which should be set up to match the deployment's hostPort, which is then mapped to a container's containerPort.](/images/k8s-nodeport-routing.png)
