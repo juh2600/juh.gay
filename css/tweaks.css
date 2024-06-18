@@ -65,3 +65,7 @@ nav.subdir-nav {
 	border-bottom: 1px solid #0091ff;
 	margin-bottom: 0.75em;
 }
+
+.alert {
+	margin: 0.5rem;
+}
