@@ -37,6 +37,7 @@ for infile in (find src/ -type f | grep '\.md$')
 	set -x rawfile (echo $infile | sed 's ^src/  g')
 	set -x outfile (echo $infile | sed 's ^src/ doc/ g')
 	set -x cmd pandoc \
+		--lua-filter=build/pandoc-lua/obsidian-callouts.lua \
 		--template=build/pandoc-template.html \
 		--css="https://cdn.jtreed.org/css/core.css" \
 		--css="/css/tweaks.css?hash=$hash" \
