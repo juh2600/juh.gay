@@ -23,7 +23,7 @@ I may at some point write another series, or expand this one, to include some of
 
 # Goals
 
-- Provide a full working example of deploying a single instance of a Minecraft server on a Kubernetes cluster, including first-time initialization of settings and persistent, expandable storage.
+- Provide and explain a full working example of deploying a single instance of a Minecraft server on a Kubernetes cluster, including first-time initialization of settings and persistent, expandable storage.
 - Explain the pitfalls I discovered along the way, that the reader may either avoid them, recognize them, or explore them further.
 
 # Non-goals
