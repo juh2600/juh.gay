@@ -80,6 +80,8 @@ details.alert > summary {
   margin: 0;
 }
 
-details div.sourceCode {
+details div.sourceCode
+, details pre
+{
   margin: 0;
 }
