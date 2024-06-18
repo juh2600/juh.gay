@@ -51,9 +51,6 @@ function BlockQuote (el)
 				defaults_to_open = not (callout_expansion == "-")
 				is_collapsible = not (callout_expansion == "")
 
-				classes = type_class_map[callout_type] or "alert"
-				open = defaults_to_open and " open" or "" -- goofy ass ternary
-
 				-- <details[ open] class='$classes' data-obsidian-callout-type='$callout_type'>
 				--   <summary>[$heading{:] $title}</summary>
 				--   $body
@@ -73,15 +70,38 @@ function BlockQuote (el)
 				elseif #title > 0 then
 					summary = title
 				end
-				if #summary > 0 then summary = "<summary>"..summary.."</summary>" end
+
+				if #summary == 0 then
+					is_collapsible = false
+					defaults_to_open = true
+				end
+
+				classes = type_class_map[callout_type] or "alert"
+				open = defaults_to_open and " open" or "" -- goofy ass ternary
+
+				out = {
+					  pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
+				}
+				if #summary > 0 then
+					--summary = "<summary>"..summary.."</summary>"
+					table.insert(out, pandoc.RawBlock("html", "<summary>"))
+					table.insert(out, pandoc.Plain(summary))
+					table.insert(out, pandoc.RawBlock("html", "</summary>"))
+				end
+					table.insert(out, table.unpack(body)) -- body is a list of blocks, unpack them into the returned list
+					table.insert(out, pandoc.RawBlock("html", "</details>"))
+
+				return out
+
 				-- TODO let summary remain a not-so-raw value in case that affects parsing like, inline code snippets or something
 
-				return {
-					  pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
-					, pandoc.Plain(pandoc.RawInline("html", summary))
-					, table.unpack(body) -- body is a list of blocks, unpack them into the returned list
-					, pandoc.RawBlock("html", "</details>")
-				}
+				--return {
+				--	  pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
+				--	--, pandoc.Plain(pandoc.RawInline("html", summary))
+				--	, table.unpack(summary)
+				--	, table.unpack(body) -- body is a list of blocks, unpack them into the returned list
+				--	, pandoc.RawBlock("html", "</details>")
+				--}
 
     else
         return el
