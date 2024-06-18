@@ -69,3 +69,17 @@ nav.subdir-nav {
 .alert {
 	margin: 0.5rem;
 }
+
+
+details.alert {
+  padding: 0;
+}
+
+details.alert > summary {
+  padding: 0.5em;
+  margin: 0;
+}
+
+details div.sourceCode {
+  margin: 0;
+}
