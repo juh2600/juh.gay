@@ -76,12 +76,10 @@ function BlockQuote (el)
 				if #summary > 0 then summary = "<summary>"..summary.."</summary>" end
 
 				return {
-				pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
-				, pandoc.Plain(
-						  pandoc.RawInline("html", summary)
-						, body
-					)
-				, pandoc.RawBlock("html", "</details>")
+					  pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
+					, pandoc.Plain(pandoc.RawInline("html", summary))
+					, table.unpack(body) -- body is a list of blocks, unpack them into the returned list
+					, pandoc.RawBlock("html", "</details>")
 				}
 
     else
