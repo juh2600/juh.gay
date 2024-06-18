@@ -86,7 +86,7 @@ details div.sourceCode
   margin: 0;
 }
 
-@media (max-width: 40rem) {
+@media (max-width: 45rem) {
   main {
     padding: 1em;
   }
