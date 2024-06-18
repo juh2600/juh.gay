@@ -74,6 +74,7 @@ function BlockQuote (el)
 					summary = title
 				end
 				if #summary > 0 then summary = "<summary>"..summary.."</summary>" end
+				-- TODO let summary remain a not-so-raw value in case that affects parsing like, inline code snippets or something
 
 				return {
 					  pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
