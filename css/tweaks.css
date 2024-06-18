@@ -85,3 +85,9 @@ details div.sourceCode
 {
   margin: 0;
 }
+
+@media (max-width: 40rem) {
+  main {
+    padding: 1em;
+  }
+}
