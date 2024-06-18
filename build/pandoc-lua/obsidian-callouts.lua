@@ -79,7 +79,7 @@ function BlockQuote (el)
 				pandoc.RawBlock("html", "<details" .. open .. " class='" .. classes .. "' data-obsidian-callout-type='" .. callout_type:lower() .. "'>")
 				, pandoc.Plain(
 						  pandoc.RawInline("html", summary)
-						, pandoc.RawInline("html", body)
+						, body
 					)
 				, pandoc.RawBlock("html", "</details>")
 				}
