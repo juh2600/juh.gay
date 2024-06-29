@@ -30,3 +30,4 @@
 - see an aurora
 - ~~slide down a stair rail~~
 - make monochroma proud
+- get kidnapped by friends
