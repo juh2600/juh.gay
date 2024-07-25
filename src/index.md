@@ -65,18 +65,19 @@ i also exist in a couple of other places:
 
 yes!! the fun part!
 
-- [lain](https://hacktheinter.net)
-- [ana](http://lookat.blue)
-- [jes](https://femtobit.org)
-- [drv](https://drv.nu)
+- [lain](https://hacktheinter.net/)
+- [ana](http://lookat.blue/)
+- [jes](https://femtobit.org/)
+- [drv](https://drv.nu/)
 - [monochroma](javascript:alert("monochroma doesn't believe in the web"))
-- [sdomi](https://sdomi.pl)
+- [sdomi](https://sdomi.pl/)
 - [travja](https://travja.dev/)
-- [inam](https://maniks.net)
+- [inam](https://maniks.net/)
 - [jaci](https://imjac.in/ta)
 - [isaac](https://github.com/Isaac-DV)
 - [toast](https://etoast.me/)
 - [ryan](https://ryanunroe.com/)
 - shenzao should work on a site
-- [kaisa](https://www.kaisavi.net)
-- [daniel the fox](http://danielthefox.tk)
+- [kaisa](https://www.kaisavi.net/)
+- [daniel the fox](http://danielthefox.tk/)
+- [azonenberg](https://serd.es/)
