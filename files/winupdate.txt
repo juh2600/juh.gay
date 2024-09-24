@@ -1,0 +1,16 @@
+! https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus#211-configure-your-firewall-to-allow-your-first-wsus-server-to-connect-to-microsoft-domains-on-the-internet
+
+! ||windowsupdate.microsoft.com^
+! ||update.microsoft.com^
+! ||download.microsoft.com^
+! ||ntservicepack.microsoft.com^
+! ||go.microsoft.com^
+! ||delivery.mp.microsoft.com^
+
+! let's just do this and then selectively unblock
+! they're sneaky devils and they will change things
+||microsoft.com
+||windows.com^
+||windowsupdate.com^
+
+@@learn.microsoft.com
