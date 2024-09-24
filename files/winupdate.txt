@@ -12,5 +12,12 @@
 ||microsoft.com
 ||windows.com^
 ||windowsupdate.com^
+||bing.com
+||live.com
+||msn.com
+||msftconnecttest.com
+||bingretailmsndata.azureedge.net
+||img-s-msn-com.akamaized.net
+
 
 @@learn.microsoft.com
