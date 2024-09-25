@@ -18,6 +18,7 @@
 ||msftconnecttest.com
 ||bingretailmsndata.azureedge.net
 ||img-s-msn-com.akamaized.net
+||msftncsi.com
 
 
 @@learn.microsoft.com
