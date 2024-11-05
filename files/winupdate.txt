@@ -10,8 +10,8 @@
 ! let's just do this and then selectively unblock
 ! they're sneaky devils and they will change things
 ||microsoft.com
-||windows.com^
-||windowsupdate.com^
+||windows.com
+||windowsupdate.com
 ||bing.com
 ||live.com
 ||msn.com
