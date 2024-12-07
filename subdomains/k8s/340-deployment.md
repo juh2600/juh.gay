@@ -121,7 +121,9 @@ This is where the magic happens. Let's start from the top.
 apiVersion: apps/v1
 kind: Deployment
 ```
-`
+
+Nothing fancy here.
+
 # Metadata
 
 ```yaml
