@@ -1,4 +1,5 @@
 ! https://learn.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/2-configure-wsus#211-configure-your-firewall-to-allow-your-first-wsus-server-to-connect-to-microsoft-domains-on-the-internet
+! https://dl.w1ldaustin.com/Windows-Tools/Update-Blocklist.txt
 
 ! ||windowsupdate.microsoft.com^
 ! ||update.microsoft.com^
@@ -10,6 +11,7 @@
 ! let's just do this and then selectively unblock
 ! they're sneaky devils and they will change things
 ||microsoft.com
+||microsoft.net
 ||windows.com
 ||windowsupdate.com
 ||bing.com
@@ -19,6 +21,10 @@
 ||bingretailmsndata.azureedge.net
 ||img-s-msn-com.akamaized.net
 ||msftncsi.com
+||msedge.net
+
+! this one came from austin, unsure of blast radius
+||akamaitechnologies.com
 
 
 @@learn.microsoft.com
