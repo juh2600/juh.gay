@@ -9,6 +9,9 @@
 
 doc/
 
+src/images
+src/files
+
 quik
 
 nohup.out
