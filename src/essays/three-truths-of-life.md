@@ -23,3 +23,11 @@ We can extend this lesson to a few more practical ideas:
 - When approaching a problem that has been solved jankily by someone else, don't assume that the obvious solution didn't pan out. Ask if they've tried it; they may not have.
 - Write tests.
 - Just because someone says that it's documented doesn't mean that it's documented.
+
+## 2024 update
+
+Ironically, I have learned this one at work:
+
+- That's not my job.
+
+This flies in the face of "you have to do it yourself", doesn't it? Well, here's the thing: it depends on whether you care about the thing getting done. If you want it to get done, you have to do it yourself. If it's business, getting it done is a business problem, not a you problem. If a partner isn't pulling their weight at work, that's between them and their management chain. It's not your job to pick up slack that you are not trained for, paid for, or invested in.

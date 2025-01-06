@@ -16,7 +16,7 @@ I went to find a meme and do a crappy edit job on the text, but this showed up f
 
 Here's the point: Overuse of high-visibility colors desensitizes us to those colors; therefore, this overuse (re-)creates a safety hazard by reducing the effectiveness of our controls.
 
-If your team wears hi-vis vests, that's fine, those are industry standard and not too obnoxious. They're also patterned so that you can see them move as the person inside moves, whereas a solid-colored jumpsuit tends to hide that motion, making the person's movements harder to follow (gee whiz). You can also find high-visibility gloves, which I would recommend, since your hands are working in a confined space full of heavy, stiff, moving parts being handled by other people. (And you should be wearing gloves anyways...I think I'll write that up next.)
+If your team wears hi-vis vests, that's fine, those are industry standard and not too obnoxious. They're also patterned so that you can see them move as the person inside moves, whereas a solid-colored jumpsuit tends to hide that motion, making the person's movements harder to follow (gee whiz). You can also find high-visibility gloves, which I would recommend, since your hands are working in a confined space full of heavy, stiff, moving parts being handled by other people.
 
 There are really many things that should be flagged with high-vis colors, including corners, sharp edges, protruding ends, energy release mechanisms, motion controls, floor hazards, hanging cables... generally anything that would make someone say either "watch out for that" or "ow". So, as with every other tool: Please use high-visibility colors, when and only when appropriate. :)
 

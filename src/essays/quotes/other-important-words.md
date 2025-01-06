@@ -4,10 +4,8 @@ There are things I say a lot, or think about a lot, but aren't exactly "life-sha
 
 ------------------------------------------------------------------------------
 
-Hope is not a strategy.
-
-Everyone's gotta be somewhere.
-
-If it's not a salad, don't put salad on it.
-
-In engineering, exciting is good. In operations, boring is good.
+- Not my job.
+- Hope is not a strategy.
+- Everyone's gotta be somewhere.
+- If it's not a salad, don't put salad on it.
+- In engineering, exciting is good. In operations, boring is good.
