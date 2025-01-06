@@ -9,13 +9,13 @@ reviews:
 - name:
   date: 2025-01-05
   status:
-    ongoing: yes
+    abort: yes
   link: https://github.com/juh2600/juh.gay/issues/18
 dependencies: no
 disclaimers:
   general: yes
 status:
-  review: yes
+  draft: yes
 ---
 
 # Scope of authority {#scope}
