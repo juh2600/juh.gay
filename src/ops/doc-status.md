@@ -5,7 +5,12 @@ authors:
 - juh
 owners:
 - juh
-reviews: no
+reviews:
+- name:
+  date: 2025-01-05
+  status:
+    ongoing: yes
+  link: https://github.com/juh2600/juh.gay/issues/18
 dependencies: no
 disclaimers:
   general: yes
