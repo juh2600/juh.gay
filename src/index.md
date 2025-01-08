@@ -77,6 +77,7 @@ yes!! the fun part!
 - [isaac](https://github.com/Isaac-DV)
 - [toast](https://etoast.me/)
 - [ryan](https://ryanunroe.com/)
+- [janell](https://janellrogers.com/)
 - shenzao should work on a site
 - [kaisa](https://www.kaisavi.net/)
 - [daniel the fox](http://danielthefox.tk/)
