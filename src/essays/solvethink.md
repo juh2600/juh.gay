@@ -59,7 +59,7 @@ Sometimes things are not exactly as they seem, or how they're first presented to
 
 Tangential to cheesesteaks, let's talk about how I commute in general.
 
-![General layout of my typical commute sites. I'm helping you here, don't doxx me.](/images/commute-map.png)
+![Map of King County, Washington, US. Points of interest from top to bottom: North Work, Calozzi's, South Work, Home.](/images/commute-map.png)
 
 I used to go Home -> South Work -> Calozzi's -> North Work -> Home. But these don't have to go in that order. What are the real constraints?
 
