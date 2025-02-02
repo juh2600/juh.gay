@@ -4,6 +4,8 @@ _This [article originated on Tumblr](https://www.tumblr.com/juh-wasnt-deactivate
 
 _tumblr note: this is a living document. tap the original post header to see if it's been updated since this reblog._
 
+# solvethink
+
 Let's look at a silly problem I face in my daily life as an example. There's a great cheesesteak place near my work, but they're only open 10am to 4pm. I would eat there every time I drove past if I could. Can I get an American wit onion today? We'll look at this problem, and a few others, with the tools I use to solve problems every day.
 
 ## Partition the problem (dichotomies)
