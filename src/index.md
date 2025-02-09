@@ -75,7 +75,7 @@ yes!! the fun part!
 - [inam](https://maniks.net/)
 - [jaci](https://imjac.in/ta)
 - [isaac](https://github.com/Isaac-DV)
-- [toast](https://etoast.me/)
+- [toast](https://swiddis.net/)
 - [ryan](https://ryanunroe.com/)
 - [janell](https://janellrogers.com/)
 - shenzao should work on a site
