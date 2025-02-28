@@ -10,7 +10,7 @@ This repository contains [my web site](https://juh.gay) and everything I use to 
 4. Grep through everything and change anything that says "juh" to whatever you want it to say instead, I guess
 5. Update `docker-compose.yml` to point to your repo/branch, configure update frequency, etc.
 6. Deploy the docker-compose setup somewhere
-7. Ping me when you find that this process doesn't work
+7. ~Ping me when you find that this process doesn't work~
 
 # Authoring workflow
 
