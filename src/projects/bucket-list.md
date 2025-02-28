@@ -13,7 +13,6 @@
 - ~~learn to drive stick~~
 - ~~find mutual love~~
 - cook something on this damn thinkpad
-- burn down a building (affectionate)
 - total a vehicle
 - ~~work at google~~
 - work at nasa
