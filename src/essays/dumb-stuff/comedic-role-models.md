@@ -2,3 +2,4 @@
 - jeff goldblum
 - ryan reynolds
 - philomena cunk
+- captain jack sparrow
